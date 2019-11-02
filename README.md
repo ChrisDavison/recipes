@@ -18,3 +18,11 @@ Main recipes...
 - Chicken Chow Mein
 - Cullen Skink
 - Lamb Goulash
+
+## IDEAS
+
+-   Peanut Butter Cheesecake
+-   "Wagon Wheel"
+-   Honeycomb, with a layer of chocolate on top
+-   Caramelised hazelnuts with a layer of chocolate (thin layer of caramel with nuts sticking through, for a 'smaller' snack?)
+-   Gingerbread, with a thin layer of chocolate (like chocolate gingers?)
