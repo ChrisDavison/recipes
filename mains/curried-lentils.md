@@ -17,4 +17,3 @@
 -   Mince the garlic and finely dice the onion and carrots. Saute onion, garlic, and carrots in a large skillet with olive oil. Add curry powder and saute for one minute more
 -   Add cooked and drained lentils to skilled, along with tomato sauce. Stir and heat through. Salt if needed.
 -   Top with coriander, and serve with rice, naan, or crusty bread.
-

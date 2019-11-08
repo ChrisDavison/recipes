@@ -1,6 +1,6 @@
 # Ingredients
 
-**If cut into 16, about 75 calories per biscuit**\# Ingredients
+**If cut into 16, about 75 calories per biscuit**
 
 -   110g plain flour
 -   3/4 level teaspoon baking powder
@@ -23,4 +23,3 @@
 8.  Use a serrated knife to cut the log at a slight diagonal, slices \~1cm thick
 9.  Place back on the tray and bake for another \~10-20 minutes, until pale gold and crisp
 10. Cool
-
