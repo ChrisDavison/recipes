@@ -1,0 +1,25 @@
+* Bechemel Sauce
+  :PROPERTIES:
+  :CUSTOM_ID: bechemel-sauce
+  :END:
+
+** Ingredients
+   :PROPERTIES:
+   :CUSTOM_ID: ingredients
+   :END:
+
+- 2 tablespoon margarine
+- 2 heaped tablespoon flour
+- 1 pint milk
+
+** Method
+   :PROPERTIES:
+   :CUSTOM_ID: method
+   :END:
+
+- melt margarine and add flour
+- cook margarine and flour for 5 minutes
+- remove from heat
+- add milk slowly to mixture to prevent lumps
+- return to heat &season to taste
+- stir constantly until thickened
