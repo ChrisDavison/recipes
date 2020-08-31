@@ -1,12 +1,6 @@
 * Thai Quinoa Salad, with Peanut Dressing
-  :PROPERTIES:
-  :CUSTOM_ID: thai-quinoa-salad-with-peanut-dressing
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 1. Salad
 
@@ -34,9 +28,6 @@
    - 1/2 tsp agave nectar (or honey)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - For the dressing, mix everything in a small bowl until well combined
 - For the salad, combine quinoa with veg. Add the dressing and mix well.

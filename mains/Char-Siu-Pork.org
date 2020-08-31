@@ -1,12 +1,6 @@
 * Char-Siu Pork
-  :PROPERTIES:
-  :CUSTOM_ID: char-siu-pork
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 500g pork fillet
 - 150ml boiling water
@@ -25,9 +19,6 @@
 - 1 teaspoon sesame oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the pork into strips 2.5cm thick and 18-20 cm long and place in a
    large shallow [[http://dish.combine/][dish.combine]] the marinade

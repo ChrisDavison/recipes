@@ -1,12 +1,6 @@
 * Chicken Biryani
-  :PROPERTIES:
-  :CUSTOM_ID: chicken-biryani
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1tablespoon vegetable oil
 - 2 garlic cloves crushed
@@ -25,9 +19,6 @@
 - fresh coriander to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the oil in a large frying pan. add the garlic ginger and onion
    and saute gently for 2 mins

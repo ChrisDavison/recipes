@@ -1,12 +1,6 @@
 * Baked Bean and Cheese Quesedilla
-  :PROPERTIES:
-  :CUSTOM_ID: baked-bean-and-cheese-quesedilla
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 tortillas
 - 1/3 cup cooked bake beans, with sauce
@@ -14,9 +8,6 @@
 - salsa for serving
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Place corn tortilla on a plate. Top with beans, and lightly mash beans
   with back of a spoon. Sprinkle on cheese and top with remaining

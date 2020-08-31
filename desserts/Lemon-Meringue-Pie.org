@@ -1,12 +1,6 @@
 * Lemon Meringue Pie
-  :PROPERTIES:
-  :CUSTOM_ID: lemon-meringue-pie
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 12 floz water
 - 4 tbsp cornflour
@@ -18,9 +12,6 @@
 - short crust pastry
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Roll out pastry; line flan dish and prick the bottom with a fork.
    Brush with egg white

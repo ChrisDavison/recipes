@@ -1,12 +1,6 @@
 * Tandoori Monkfish
-  :PROPERTIES:
-  :CUSTOM_ID: tandoori-monkfish
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 lime juice only
 - 15g garlic minced
@@ -20,9 +14,6 @@
 - 1 tablespoon vegetable oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. mix the lime juice,garlic,ginger.ground cumin,coriander,garam
    masala,paprika,and salt in a bowl

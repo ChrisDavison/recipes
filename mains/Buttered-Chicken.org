@@ -1,12 +1,6 @@
 * Buttered Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: buttered-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 100g unsalted butter
 - 1 tablespoon vegetable oil
@@ -30,9 +24,6 @@
 - chopped fresh green chilli to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the butter and oil in a large pan. add the onions and fry until
    golden, stirring. reduce the heat

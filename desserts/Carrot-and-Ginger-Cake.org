@@ -1,12 +1,6 @@
 * Carrot and Ginger Cake
-  :PROPERTIES:
-  :CUSTOM_ID: carrot-and-ginger-cake
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - Cake
 
@@ -36,9 +30,6 @@
   - ground ginger
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat oven to 180 degrees. grease and line an 8" round cake tin
    with baking parchment.

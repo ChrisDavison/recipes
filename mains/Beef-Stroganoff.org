@@ -1,12 +1,6 @@
 * Beef Stroganoff
-  :PROPERTIES:
-  :CUSTOM_ID: beef-stroganoff
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 6 tablespoon butter
 - 1 ib beef cut into thin strips
@@ -19,9 +13,6 @@
 - tub sour cream
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1.  melt butter in a pan add beef and brown
 2.  add some salt and pepper

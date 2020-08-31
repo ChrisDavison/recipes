@@ -1,12 +1,6 @@
 * Kung-Po Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: kung-po-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 250-300g chicken breast
 - 1/2 teaspoon salt
@@ -24,9 +18,6 @@
 - boiled rice to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the chicken into small cubes about the size of sugar cubes. place
    in a small bowl and mix with a pinch of salt, the egg white and

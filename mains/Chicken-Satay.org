@@ -1,14 +1,8 @@
 * Chicken Satay
-  :PROPERTIES:
-  :CUSTOM_ID: chicken-satay
-  :END:
 
 1. Option 1
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 #+BEGIN_EXAMPLE
   -   8-10 mini chicken fillets
@@ -28,9 +22,6 @@
 #+END_EXAMPLE
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 #+BEGIN_EXAMPLE
   1.  cut the chicken into strips around 2-3 cm wide. place in a bowl and set aside.
@@ -42,9 +33,6 @@
 2. Option 2
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients-1
-   :END:
 
 #+BEGIN_EXAMPLE
   -   8-12 mini chicken fillets
@@ -63,9 +51,6 @@
 #+END_EXAMPLE
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method-1
-   :END:
 
 #+BEGIN_EXAMPLE
   1.  cut chicken into thin strips and place in a bowl

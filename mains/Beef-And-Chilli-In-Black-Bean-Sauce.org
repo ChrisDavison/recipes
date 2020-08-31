@@ -1,12 +1,6 @@
 * Beef And Chilli In Black Bean Sauce
-  :PROPERTIES:
-  :CUSTOM_ID: beef-and-chilli-in-black-bean-sauce
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 250-300g beef steak
 - 1 small onion
@@ -27,9 +21,6 @@
 - 2 teaspoon sesame oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the beef into small thin strips. mix together the marinade
    ingredients in a shallow dish, add the beef, turn to coat and leave

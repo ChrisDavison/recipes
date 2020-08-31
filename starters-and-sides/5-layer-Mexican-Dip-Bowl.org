@@ -1,12 +1,6 @@
 * 5-layer Mexican Dip Bowl
-  :PROPERTIES:
-  :CUSTOM_ID: layer-mexican-dip-bowl
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - guacamole
 - 2 ripe avocados, peeled, pitted, and cut into chunks
@@ -26,9 +20,6 @@
 - cayenne pepper sauce (to taste)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - In a medium bowl, mash together avocado, lime juice, cilantro, onion,
   tomato, garlic, and salt.

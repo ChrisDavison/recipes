@@ -1,12 +1,6 @@
 * Cream of Chicken Soup
-  :PROPERTIES:
-  :CUSTOM_ID: cream-of-chicken-soup
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 tablespoon unsalted butter
 - 1 large onion chopped
@@ -21,9 +15,6 @@
 --------------
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. melt the butter in a large saucepan and fry the onion for 3 nins.
 2. add the finely shredded chicken to the saucepan with 300ml chicken

@@ -1,12 +1,6 @@
 * Kibbeh
-  :PROPERTIES:
-  :CUSTOM_ID: kibbeh
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 75g couscous
 - small onion
@@ -22,9 +16,6 @@
 - 2 tablespoon sunflower oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. soak couscous in a large bowl covered wiyh cold water and stand for
    30 mins or until swollen and soft

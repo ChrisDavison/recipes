@@ -1,12 +1,6 @@
 * Kidney-bean Salad
-  :PROPERTIES:
-  :CUSTOM_ID: kidney-bean-salad
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 can kidney beans
 - 1 can sweetcorn
@@ -26,9 +20,6 @@ Dressing
 - salt and pepper to taste
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Rinse and drain corn and kidney beans.
 - Dice cucumber. Slice coriander

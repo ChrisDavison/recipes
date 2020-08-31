@@ -1,12 +1,6 @@
 * Lemon and Raspberry Pavlova
-  :PROPERTIES:
-  :CUSTOM_ID: lemon-and-raspberry-pavlova
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - packet of ready made meringue nests
 - 3 or 4 tablespoons greek natural yoghurt
@@ -16,9 +10,6 @@
 - few mint leaves
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place 1 teaspoon lemon curd in each meringue nest
 2. in a bowl roughly mash raspberries with the honey

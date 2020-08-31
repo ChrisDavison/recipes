@@ -1,12 +1,6 @@
 * Crispy Won-tons with Dip
-  :PROPERTIES:
-  :CUSTOM_ID: crispy-won-tons-with-dip
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 tablespoon vegetable oil
 - 1 tablespoon chopped onion
@@ -28,9 +22,6 @@
 - pinch of sugar
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat oil in a wok. add garlic, onion and ginger. stir fry for 2 mins.
    stir in the mushrooms and fry for a further 2 mins. season well with

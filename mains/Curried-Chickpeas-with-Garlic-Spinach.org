@@ -1,14 +1,8 @@
 * Curried Chickpeas with Garlic Spinach
-  :PROPERTIES:
-  :CUSTOM_ID: curried-chickpeas-with-garlic-spinach
-  :END:
 
 For ~3 bowls of ~450 cal.
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 1. Garlicky spinach
 
@@ -36,9 +30,6 @@ For ~3 bowls of ~450 cal.
    - 3 cups cooked rice
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Cook rice
 - heat 1tsp olive oil over medium heat. Add garlic and cook until

@@ -1,12 +1,6 @@
 * Roasted Root Vegetables
-  :PROPERTIES:
-  :CUSTOM_ID: roasted-root-vegetables
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 tablespoon sunflower oil
 - 25g butter
@@ -16,9 +10,6 @@
 - 1 clove garlic crushed
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat oven to 190c
 2. heat the oil, butter and garlic in a roasting tin on top of the

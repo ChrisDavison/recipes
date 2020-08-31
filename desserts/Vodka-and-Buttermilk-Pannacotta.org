@@ -1,12 +1,6 @@
 * Vodka and Buttermilk Pannacotta
-  :PROPERTIES:
-  :CUSTOM_ID: vodka-and-buttermilk-pannacotta
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 300ml double cream
 - 1 vanilla pod, split, seeds scraped out
@@ -18,9 +12,6 @@
   and blackberries
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. chill a jug in the freezer.
 2. heat the double cream, vanilla pod and seeds and 100g/3½oz of the

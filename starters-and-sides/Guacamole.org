@@ -1,12 +1,6 @@
 * Guacamole
-  :PROPERTIES:
-  :CUSTOM_ID: guacamole
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 ripe avocados
 - 1/2 teaspoon salt
@@ -18,9 +12,6 @@
 - 1/2 ripe tomato (seeds and pulp removed) chopped
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. remove avocado flesh
 2. mash with a fork (but leave it a little chunky)

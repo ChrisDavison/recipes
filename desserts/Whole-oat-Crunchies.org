@@ -1,14 +1,8 @@
 * Whole-oat Crunchies
-  :PROPERTIES:
-  :CUSTOM_ID: whole-oat-crunchies
-  :END:
 
 If cut into 12, 124cal per serving If cut into 8, 186cal per serving
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 50g Jumbo oats
 - 60g porridge oats
@@ -16,9 +10,6 @@ If cut into 12, 124cal per serving If cut into 8, 186cal per serving
 - 110g butter (block)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Preheat oven to 190
 2. Mix the oats and sugar, as evenly as possible

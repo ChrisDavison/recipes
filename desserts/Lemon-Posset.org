@@ -1,12 +1,6 @@
 * Lemon Posset
-  :PROPERTIES:
-  :CUSTOM_ID: lemon-posset
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 397g can carnation condensed milk
 - 150ml carton double cream
@@ -16,9 +10,6 @@
 - squeeze of lemon juice
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. whisk the condensed milk and cream together until thick and very
    light; 4 or 5 minutes.

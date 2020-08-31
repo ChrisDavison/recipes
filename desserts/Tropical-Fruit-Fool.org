@@ -1,12 +1,6 @@
 * Tropical Fruit Fool
-  :PROPERTIES:
-  :CUSTOM_ID: tropical-fruit-fool
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 medium ripe mango
 - 2 kiwi fruit
@@ -19,9 +13,6 @@
 - 2 passion fruit
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. to peel the mango slice either side of the smooth flat central
    stone.roughly chop the flesh and blend the fruit in a food processor

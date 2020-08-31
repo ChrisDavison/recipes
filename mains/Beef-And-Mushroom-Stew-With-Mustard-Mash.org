@@ -1,12 +1,6 @@
 * Beef And Mushroom Stew With Mustard Mash
-  :PROPERTIES:
-  :CUSTOM_ID: beef-and-mushroom-stew-with-mustard-mash
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 50g butter
 
@@ -29,9 +23,6 @@
 - 2 tablespoons chopped fresh parsley
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat oven to 150c
 2. melt half the butter in a casserole and the onions and fry till

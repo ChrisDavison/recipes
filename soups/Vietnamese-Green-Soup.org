@@ -1,14 +1,8 @@
 * Vietnamese Green Soup
-  :PROPERTIES:
-  :CUSTOM_ID: vietnamese-green-soup
-  :END:
 
 ~30min ~serves 4
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - olive oil 1 tbsp
 - spring onions 1 bunch, chopped (including green bits)
@@ -27,9 +21,6 @@
 - lime 1, zested and juiced
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Heat the olive oil in a pan.
 2. Add the spring onions, lemongrass, ginger, garlic and chilli, then

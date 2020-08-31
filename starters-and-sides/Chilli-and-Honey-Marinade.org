@@ -1,7 +1,4 @@
 * Chilli and Honey Marinade
-  :PROPERTIES:
-  :CUSTOM_ID: chilli-and-honey-marinade
-  :END:
 
 - 125ml lemon juice
 - 170g honey

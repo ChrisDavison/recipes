@@ -1,12 +1,6 @@
 * Almond Biscotti
-  :PROPERTIES:
-  :CUSTOM_ID: almond-biscotti
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 *If cut into 16, about 75 calories per biscuit*
 
@@ -20,9 +14,6 @@
 - few drops almond extract
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1.  Preheat oven to 170
 2.  Sift flour, baking powder, and salt into large bowl. Add ground and

@@ -1,12 +1,6 @@
 * Meatballs in Sauce
-  :PROPERTIES:
-  :CUSTOM_ID: meatballs-in-sauce
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g minced lamb
 - 1 teaspoon fresh root ginger crushed
@@ -39,9 +33,6 @@
 - 1 green chilli finely chopped
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the lamb in a large mixing bowl. add the ginger, garlic, garam
    masala, poppy seeds, salt, chilli powder, onion, chilli, coriander

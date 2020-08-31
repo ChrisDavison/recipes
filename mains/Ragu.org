@@ -1,12 +1,6 @@
 * Ragu
-  :PROPERTIES:
-  :CUSTOM_ID: ragu
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 tbsp olive oil
 - 1 onion, finely chopped
@@ -19,9 +13,6 @@
 - 650ml beef stock
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Heat oil, and add onion, celery and carrot. Fry over medium heat for
   10 minutes, until softened and starting to colour.

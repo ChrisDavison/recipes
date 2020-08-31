@@ -1,12 +1,6 @@
 * Beef In Whole Spices
-  :PROPERTIES:
-  :CUSTOM_ID: beef-in-whole-spices
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 300ml oil
 - 3 medium onions chopped finely
@@ -24,9 +18,6 @@
 - fresh coriander
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the oil in a skillet and fry the onions until golden
 2. reduce heat and add ginger, garlic, cinnamon stick, green cardomom,

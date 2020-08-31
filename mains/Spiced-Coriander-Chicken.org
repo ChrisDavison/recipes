@@ -1,12 +1,6 @@
 * Spiced Coriander Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: spiced-coriander-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 chicken breasts
 - 2 garlic cloves-peeled
@@ -22,9 +16,6 @@
 - sliced cucumber and radish and grated carrot to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. using a sharp knife cut deep slashes into each chicken breast and
    place in a wide dish

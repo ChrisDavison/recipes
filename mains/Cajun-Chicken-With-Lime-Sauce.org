@@ -1,12 +1,6 @@
 * Cajun Chicken With Lime Sauce
-  :PROPERTIES:
-  :CUSTOM_ID: cajun-chicken-with-lime-sauce
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 chicken breasts cut into 2cm wide strips
 - cajun spice mix
@@ -23,9 +17,6 @@
 - 1 teaspoon lime juice cordial
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat grill or barbecue to high heat
 2. place garlic, paprika, oregano, thyme, salt and black pepper in a

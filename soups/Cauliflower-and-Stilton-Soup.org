@@ -1,12 +1,6 @@
 * Cauliflower and Stilton Soup
-  :PROPERTIES:
-  :CUSTOM_ID: cauliflower-and-stilton-soup
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 15g butter
 - 1 onion finely chopped
@@ -21,9 +15,6 @@
 - freshly ground sea salt and black pepper
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the butter in a large pan, add the onion and garlic and cook
    till soft and clear

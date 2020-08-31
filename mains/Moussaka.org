@@ -1,12 +1,6 @@
 * Moussaka
-  :PROPERTIES:
-  :CUSTOM_ID: moussaka
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 medium aubergines thinly sliced
 - 2 medium courgette thinly sliced
@@ -24,9 +18,6 @@
 - salt and freshly ground black pepper
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat oven to 190c and heat the grill.arrange the aubergine and
    courgette skices over a baking tray, season and grill for 4 mins or

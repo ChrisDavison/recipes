@@ -1,12 +1,6 @@
 * Clotted-cream Cranachan
-  :PROPERTIES:
-  :CUSTOM_ID: clotted-cream-cranachan
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2x170g tub clotted cream
 - 75g jumbo oat flake
@@ -15,9 +9,6 @@
 - 500g mixed berries
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat the grill to hot
 2. tip the cream into a bowl and stir

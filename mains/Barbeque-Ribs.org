@@ -1,12 +1,6 @@
 * Barbeque Ribs
-  :PROPERTIES:
-  :CUSTOM_ID: barbeque-ribs
-  :END:
 
 ** Ingredients for /Maple glaze sauce/
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients-for-maple-glaze-sauce
-   :END:
 
 - 150ml maple syrup
 - 1/4 teaspoon cayenne pepper

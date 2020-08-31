@@ -1,12 +1,6 @@
 * Peach Melba Shortcakes
-  :PROPERTIES:
-  :CUSTOM_ID: peach-melba-shortcakes
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 175g self raising flour
 - 1/2teaspoon baking powder
@@ -21,9 +15,6 @@
 - 2 ripe peaches thinly sliced
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat oven to 180c
 2. sift the flour and baking powder into a bowl. add the bitter and rub

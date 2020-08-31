@@ -1,12 +1,6 @@
 * Peanut-Butter Fudge
-  :PROPERTIES:
-  :CUSTOM_ID: peanut-butter-fudge
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1/2 cup peanut butter
 - 1 large banana (150g) (sub: 2/3 cup coconut butter)
@@ -16,9 +10,6 @@
 - 2 tbsp powdered sugar
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. (Heat PB if not stir-able)
 2. Combine all ingredients in a bowl until completely smooth (can use a

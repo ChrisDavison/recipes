@@ -1,12 +1,6 @@
 * Barbeque'd Apples
-  :PROPERTIES:
-  :CUSTOM_ID: barbequed-apples
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 granny smith apples
 - 2 tablespoons walnuts chopped
@@ -17,9 +11,6 @@
 - single cream or thick natural yogurt to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. core the apples and using a sharp knife score each one around the
    middle to prevent them splitting

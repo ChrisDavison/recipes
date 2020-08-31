@@ -1,12 +1,6 @@
 * Raspberry and White Chocolate Cookies
-  :PROPERTIES:
-  :CUSTOM_ID: raspberry-and-white-chocolate-cookies
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 175g punnet raspberries
 - 150g white chocolate chopped
@@ -16,9 +10,6 @@
 - 225g unsalted butter softened
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. mix the milk and coconut together. in a large bowl cream butter &
    sugar then stir in condensed milk

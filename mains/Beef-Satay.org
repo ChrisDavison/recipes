@@ -1,12 +1,6 @@
 * Beef Satay
-  :PROPERTIES:
-  :CUSTOM_ID: beef-satay
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 500g beef fillet
 - 2 garlic cloves crushed
@@ -30,9 +24,6 @@
 - 1tablespoon dark soy sauce
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the beef into 1 cm cubes and place in a large bowl
 2. add the crushed garlic, grated ginger, sugar, soy sauce, lime juice,

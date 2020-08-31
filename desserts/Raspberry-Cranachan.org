@@ -1,12 +1,6 @@
 * Raspberry Cranachan
-  :PROPERTIES:
-  :CUSTOM_ID: raspberry-cranachan
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 15g pinhead oatmeal
 - 2 tablespoon honey
@@ -17,9 +11,6 @@
 - home made shortbread thins
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. toast the oatmeal in a frying pan at high heat
 2. whisk the cream to a soft consistency

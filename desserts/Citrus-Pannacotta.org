@@ -1,12 +1,6 @@
 * Citrus Pannacotta
-  :PROPERTIES:
-  :CUSTOM_ID: citrus-pannacotta
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 405g can carnation condensed milk light
 - 115ml (4fl oz) low fat crème fraîche
@@ -18,9 +12,6 @@
 - 2 passion fruits, halved
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the condensed milk and crème fraîche in a mixing bowl and whisk
    together, gradually whisk in the zest and juice of the lemons, &

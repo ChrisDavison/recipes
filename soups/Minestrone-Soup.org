@@ -1,12 +1,6 @@
 * Minestrone Soup
-  :PROPERTIES:
-  :CUSTOM_ID: minestrone-soup
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 tablespoon olive oil
 - 1-2 cloves garlic
@@ -25,9 +19,6 @@
 - fresh ground pepper
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. saute garlic and onion
 2. add potatoes celery carrots and stir for a few minutes

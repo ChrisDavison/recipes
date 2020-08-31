@@ -1,12 +1,6 @@
 * Minced Lamb with Peas
-  :PROPERTIES:
-  :CUSTOM_ID: minced-lamb-with-peas
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 6 tablespoons oil
 - 1 medium onion sliced
@@ -21,9 +15,6 @@
 - 100g peas
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the oil in a medium pan. add the oinion slices and fry until
    golden brown, stirring

@@ -1,12 +1,6 @@
 * Strawberry and White Chocolate Cheesecake
-  :PROPERTIES:
-  :CUSTOM_ID: strawberry-and-white-chocolate-cheesecake
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 175g shortbread biscuits
 - 50g butter, melted, but not warm
@@ -27,9 +21,6 @@
 - 10 mint leaves, torn into fine strips
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the shortbread biscuits into a large bowl and using the end of
    a rolling pin, bash them until they resemble breadcrumbs. add the

@@ -1,12 +1,6 @@
 * White Chocolate Dream
-  :PROPERTIES:
-  :CUSTOM_ID: white-chocolate-dream
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 ready made sweet pastry case
 - 175g white chocolate broken into pieces
@@ -19,9 +13,6 @@
 - 100g red currants
 
 ** method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. melt 150g of the chocolate in a heatproof bowl over a pan of
    simmering water making sure the bowl does not touch the water. remove

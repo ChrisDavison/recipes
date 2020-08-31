@@ -1,12 +1,6 @@
 * Basque Pork And Beans
-  :PROPERTIES:
-  :CUSTOM_ID: basque-pork-and-beans
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 200g cannellini beans
 - olive oil
@@ -20,9 +14,6 @@
 - finely chopped fresh parsley to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. drain the cannellini beans and place in bowl
 2. add enough oil to cover the base of a large frying pan in a very thin

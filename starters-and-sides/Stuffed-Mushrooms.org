@@ -1,12 +1,6 @@
 * Stuffed Mushrooms
-  :PROPERTIES:
-  :CUSTOM_ID: stuffed-mushrooms
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - large open cap mushrooms
 - 4 spring onions chopped
@@ -16,9 +10,6 @@
 - 100g mature cheddar cheese
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. wash mushrooms and pat dry with kitchen paper.remove the stalks and
    chop finely

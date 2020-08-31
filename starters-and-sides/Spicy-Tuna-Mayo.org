@@ -1,12 +1,6 @@
 * Spicy Tuna Mayo
-  :PROPERTIES:
-  :CUSTOM_ID: spicy-tuna-mayo
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 can tuna, drained
 - 2 tbsp mayo

@@ -1,12 +1,6 @@
 * Scotch Broth
-  :PROPERTIES:
-  :CUSTOM_ID: scotch-broth
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g mutton or lamb shank
 - 2.2 litres water
@@ -22,9 +16,6 @@
 - 1 tablespoon chopped parsley
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. put meat in a large pan with water,salt,barley and peas. bring slowly
    to the boil and skim off any foam as it appears

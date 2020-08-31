@@ -1,12 +1,6 @@
 * Crispy Oat-topped Rhubard with Ginger
-  :PROPERTIES:
-  :CUSTOM_ID: crispy-oat-topped-rhubard-with-ginger
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g rhubarb
 - 3 tablespoon strawberry jam
@@ -21,9 +15,6 @@
 - 15 sprays of sunflour cooking spray
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. trim the rhubarb and cut into 2.5cm pieces. place in a pan with the
    strawberry jam, caster sugar and orange juice. cook gently until

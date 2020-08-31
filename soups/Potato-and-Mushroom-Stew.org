@@ -1,16 +1,10 @@
 * Potato and Mushroom Stew
-  :PROPERTIES:
-  :CUSTOM_ID: potato-and-mushroom-stew
-  :END:
 
 - Serves 4 [(originally made for 6, but fuck that...)]
 - Cooking Time - 60 minutes
 - roughly 500cal, 75g carbs, 15g fat, and 11g protein per serving
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 tablespoon olive oil
 - 6 garlic cloves, minced
@@ -30,9 +24,6 @@
 - Black pepper to taste
 
 ** Preparation
-   :PROPERTIES:
-   :CUSTOM_ID: preparation
-   :END:
 
 1.  Heat the oven to 375°F.
 2.  Combine the tablespoon of olive oil, garlic, salt, red pepper

@@ -1,12 +1,6 @@
 * Pannacotta with Poached Raspberries
-  :PROPERTIES:
-  :CUSTOM_ID: pannacotta-with-poached-raspberries
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 420ml double cream
 - 280ml milk
@@ -18,9 +12,6 @@
 - 1 lemon
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. add milk, cream & 150g of the sugar to a pan and heat gently
 2. split vanilla pod, scrape seeds and add to pan. turn up heat slightly

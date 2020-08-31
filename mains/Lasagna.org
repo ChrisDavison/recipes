@@ -1,12 +1,6 @@
 * Lasagna
-  :PROPERTIES:
-  :CUSTOM_ID: lasagna
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 11/2lbs mince
 - tin tomatoes chopped
@@ -22,9 +16,6 @@
 - /Bechemel Sauce/
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Brown mince and remove from pot
 

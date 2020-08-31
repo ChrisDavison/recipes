@@ -1,12 +1,6 @@
 * Thai Spiced Salmon
-  :PROPERTIES:
-  :CUSTOM_ID: thai-spiced-salmon
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 pieces salmon fillet
 - 1" piece fresh ginger grated
@@ -18,9 +12,6 @@
 - rice and stir fry veg to serve(or prawn skirlie)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. mix together ginger, crushed coriander, chilli powder, lime juice and
    sesame oil to make a marinade

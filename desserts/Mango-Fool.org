@@ -1,12 +1,6 @@
 * Mango Fool
-  :PROPERTIES:
-  :CUSTOM_ID: mango-fool
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 ripe mangoes
 - 100g crème fraiche
@@ -14,9 +8,6 @@
 - 8 wafer thin bicuits to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. peel the mangoes and cut the flesh away from the stone. place half
    the fruit in a processor and blend until smooth. chop the remaining

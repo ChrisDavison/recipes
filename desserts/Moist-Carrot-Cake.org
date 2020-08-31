@@ -1,12 +1,6 @@
 * Moist Carrot Cake
-  :PROPERTIES:
-  :CUSTOM_ID: moist-carrot-cake
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 cups flour
 - 2 cups brown sugar
@@ -26,9 +20,6 @@
 - 1 teaspoon lemon juice
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. mix all the dry Ingredients together in a bowl.
 2. add cup of oil and beaten eggs

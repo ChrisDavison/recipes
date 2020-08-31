@@ -1,12 +1,6 @@
 * Pork and Sage Kebabs
-  :PROPERTIES:
-  :CUSTOM_ID: pork-and-sage-kebabs
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g pork mince
 - 2 tablespoons fresh bread crumbs
@@ -28,9 +22,6 @@
 - 6 tablespoons thick natural yogurt
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the mince in a mixing bowl together with the bread crumbs,
    onion, sage, apple sauce, nutmeg and salt and pepper to taste. mix

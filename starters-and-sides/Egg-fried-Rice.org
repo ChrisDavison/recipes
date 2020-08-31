@@ -1,12 +1,6 @@
 * Egg-fried Rice
-  :PROPERTIES:
-  :CUSTOM_ID: egg-fried-rice
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 3 eggs
 - 1teaspoon salt
@@ -16,9 +10,6 @@
 - 125g cooked peas
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. lightly beat the eggs with a pinch of salt and 1 tablespoon of the
    spring onion

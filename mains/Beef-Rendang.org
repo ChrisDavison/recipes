@@ -1,12 +1,6 @@
 * Beef Rendang
-  :PROPERTIES:
-  :CUSTOM_ID: beef-rendang
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 lemongrass stalk, roughly chopped
 - 3/4oz coriander seeds
@@ -23,9 +17,6 @@
 - 3/4fl oz strong veal or beef stock, heated
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. for the beef rending, pound the lemongrass to a pulp using a pestle
    and mortar. tip the lemongrass into a small bowl.

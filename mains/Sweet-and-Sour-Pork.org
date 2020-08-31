@@ -1,12 +1,6 @@
 * Sweet and Sour Pork
-  :PROPERTIES:
-  :CUSTOM_ID: sweet-and-sour-pork
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 250-300g of lean pork
 - 2 teaspoon brandy or whiskey
@@ -29,9 +23,6 @@
 - 1 tablespoon cornflour into paste
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the pork into small bite sized cubes and place in a dish with the
    salt, pepper and brandy and leave to marinate for 15-20 mins

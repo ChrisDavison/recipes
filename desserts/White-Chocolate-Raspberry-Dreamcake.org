@@ -1,12 +1,6 @@
 * White Chocolate Raspberry Dreamcake
-  :PROPERTIES:
-  :CUSTOM_ID: white-chocolate-raspberry-dreamcake
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 100g digestive biscuits
 - 50g unsalted butter
@@ -24,9 +18,6 @@
 - a few raspberries and fresh mint leaves
 
 ** method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. pulverise the biscuits and maltesers in a food processor, add the
    melted butter and press into a 20cm loose bottomed flan tin and chill

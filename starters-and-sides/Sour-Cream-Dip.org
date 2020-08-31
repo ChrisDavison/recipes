@@ -1,21 +1,12 @@
 * Sour Cream Dip
-  :PROPERTIES:
-  :CUSTOM_ID: sour-cream-dip
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 150ml crème fraiche
 - 1 tablespoon chopped fresh chives
 - freshly ground black pepper
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. combine the crème fraiche and the chives
 2. season with black pepper to taste

@@ -1,12 +1,6 @@
 * Green Thai Chicken Curry
-  :PROPERTIES:
-  :CUSTOM_ID: green-thai-chicken-curry
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 tablespoon sunflower oil
 - 450g chicken cut into pieces
@@ -22,9 +16,6 @@
 - fresh coriander to garnish or finely chopped green chilli
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat oil in a preheated wok. add the chicken and stir fry until
    browned

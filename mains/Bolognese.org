@@ -1,12 +1,6 @@
 * Bolognese
-  :PROPERTIES:
-  :CUSTOM_ID: bolognese
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 11/2lbs mince
 - tin tomatoes chopped
@@ -20,9 +14,6 @@
 - 2 tablespoon italian seasoning
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. brown mince and remove from pot
 2. cook onions and garlic together until golden brown

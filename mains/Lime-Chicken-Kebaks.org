@@ -1,12 +1,6 @@
 * Lime Chicken Kebaks
-  :PROPERTIES:
-  :CUSTOM_ID: lime-chicken-kebaks
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 chicken breasts
 - 3 tablespoon lime marmalade
@@ -23,9 +17,6 @@
 - 1 tablespoon fresh coriander
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. slice chicken into thin pieces and thread onto 8 skewers so that the
    meat forms an s shape down each skewer

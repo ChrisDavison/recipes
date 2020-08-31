@@ -1,14 +1,8 @@
 * Flapjacks
-  :PROPERTIES:
-  :CUSTOM_ID: flapjacks
-  :END:
 
 Makes 12 flapjacks, ~200cal each.
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 250g porridge oats
 - 125g butter
@@ -16,9 +10,6 @@ Makes 12 flapjacks, ~200cal each.
 - 2-3tbsp golden syrup (depending how gooey you want it)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Heat oven to 200c;
 2. Put all ingredients in a food processor and pulse lightly until

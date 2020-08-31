@@ -1,12 +1,6 @@
 * Baked Bananas
-  :PROPERTIES:
-  :CUSTOM_ID: baked-bananas
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 bananas
 - 2 passionfruit
@@ -24,9 +18,6 @@
 icingsugar
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. to make the orange flavour cream, pour the double cream into a mixing
    bowl and sprinkle over the icing sugar.whisk the mixture to soft

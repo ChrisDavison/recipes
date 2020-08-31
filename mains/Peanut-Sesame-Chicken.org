@@ -1,12 +1,6 @@
 * Peanut Sesame Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: peanut-sesame-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 tablespoon vegetable oil
 - 2 tablespoon sesame oil
@@ -22,9 +16,6 @@
 - rice or noodles to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat oils in wok until smoking add the chicken strips and stir fry
    for 4-5 mins or until browned

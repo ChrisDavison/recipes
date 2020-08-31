@@ -1,12 +1,6 @@
 * Carrot and Coriander Soup
-  :PROPERTIES:
-  :CUSTOM_ID: carrot-and-coriander-soup
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 25g butter
 - 1 medium onion finely chopped
@@ -22,9 +16,6 @@
 - 2 tablespoon chopped fresh coriander
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. melt the butter and cook the onion and garlic gently until soft
    without colouring

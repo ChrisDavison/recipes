@@ -1,12 +1,6 @@
 * Tandoori Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: tandoori-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 x whole chicken
 - skin removed, jointed
@@ -29,9 +23,6 @@
 - lime wedges to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. make deep incisions into the chicken breasts, thighs and drumsticks.
 2. whisk the yoghurt in the large bowl, add the remaining marinade

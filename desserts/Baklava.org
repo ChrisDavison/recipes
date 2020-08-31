@@ -1,12 +1,6 @@
 * Baklava
-  :PROPERTIES:
-  :CUSTOM_ID: baklava
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 /For Baklava/
 
@@ -26,9 +20,6 @@
 - 1-2 tsp orange flower water, optional
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. preheat the oven to 180c/gas 4.
 2. for the baklava: grind the nuts in a food processor until coarsely

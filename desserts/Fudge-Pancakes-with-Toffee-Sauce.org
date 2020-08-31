@@ -1,12 +1,6 @@
 * Fudge Pancakes with Toffee Sauce
-  :PROPERTIES:
-  :CUSTOM_ID: fudge-pancakes-with-toffee-sauce
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 /Pancakes/
 
@@ -26,9 +20,6 @@
 - 55g clear honey
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. in a medium bowl whisk together the flour sugar and baking powder
 2. whisk the egg butter and milk into the flour until you have a smooth

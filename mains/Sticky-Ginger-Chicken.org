@@ -1,12 +1,6 @@
 * Sticky Ginger Chicken
-  :PROPERTIES:
-  :CUSTOM_ID: sticky-ginger-chicken
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 garlic cloves peeled
 - 1 piece stem ginger in syrup
@@ -19,9 +13,6 @@
 - lime wedges and coriander leaves to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. roughly chop the garlic and ginger.in a pestle and mortar crush the
    garlic, stem ginger and coriander seeds to a paste, gradually working

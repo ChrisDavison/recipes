@@ -1,12 +1,6 @@
 * Cullen Skink
-  :PROPERTIES:
-  :CUSTOM_ID: cullen-skink
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 onions finely chopped
 - 600ml milk
@@ -19,9 +13,6 @@
 - 3/4pint water
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. put haddock in a large pan with the water. bring to the boil and
    simmer for 5-10mins until the fish is just cooked. remove fish from

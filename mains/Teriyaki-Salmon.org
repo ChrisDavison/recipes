@@ -1,12 +1,6 @@
 * Teriyaki Salmon
-  :PROPERTIES:
-  :CUSTOM_ID: teriyaki-salmon
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 4 tablespoon terriyaki sauce
 - 2 tablespoon sweet chilli sauce
@@ -19,9 +13,6 @@
 - little sesame oil to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. mix terriyaki sauce, sweet chilli sauce, zest of lime, squeeze of
    lime juice in a large bowl add salmon fillets coat in marinade and

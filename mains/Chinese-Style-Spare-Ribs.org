@@ -1,12 +1,6 @@
 * Chinese Style Spare Ribs
-  :PROPERTIES:
-  :CUSTOM_ID: chinese-style-spare-ribs
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1kg pork spare ribs
 - 4 tablespoon hoi sin sauce
@@ -20,9 +14,6 @@
 - shredded spring onion
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the ribs in a large shallow container
 2. mix together the hoi sin sauce, tomato puree, garlic puree, ginger,

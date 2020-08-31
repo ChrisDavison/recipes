@@ -1,12 +1,6 @@
 * Thai-style Burgers
-  :PROPERTIES:
-  :CUSTOM_ID: thai-style-burgers
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 small lemon grass stalk
 - 1 small red chilli deseeded
@@ -24,9 +18,6 @@
 - shredded chinese leaves
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the lemon grass, chilli and spring onions in a food processor
    and process to a smooth paste. add the mushrooms and process until

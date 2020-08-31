@@ -1,12 +1,6 @@
 * Zabaglione
-  :PROPERTIES:
-  :CUSTOM_ID: zabaglione
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 5 egg yolks
 - 100g caster sugar
@@ -14,9 +8,6 @@
 - Amaretti biscuits /or/ shortbread thins - to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the yolks in a large mixing bowl. add the sugar and whisk until
    the mixture is thick and very pale and doubled in volume

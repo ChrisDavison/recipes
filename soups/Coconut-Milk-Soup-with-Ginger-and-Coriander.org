@@ -1,12 +1,6 @@
 * Coconut Milk Soup with Ginger and Coriander
-  :PROPERTIES:
-  :CUSTOM_ID: coconut-milk-soup-with-ginger-and-coriander
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1tablespoon sesame oil or stir fry oil(try stir fry oil)
 - 1 large onion finely chopped
@@ -21,9 +15,6 @@
 - coriander to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat sesame oil in a saucepan and saute onion and ginger for 2-3 mins
    until softened

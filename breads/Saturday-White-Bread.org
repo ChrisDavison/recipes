@@ -1,14 +1,8 @@
 * Saturday White Bread
-  :PROPERTIES:
-  :CUSTOM_ID: saturday-white-bread
-  :END:
 
 From /flour, water, salt, yeast/
 
 ** Ingredients (for ~1lb loaf)
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients-for-1lb-loaf
-   :END:
 
 - 500g plain flour
 - 11g salt (2tsp)
@@ -16,9 +10,6 @@ From /flour, water, salt, yeast/
 - 360g water (32-35C)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - *autolyse*. mix both flours, then add the warm water. and mix till
   combined. Wait 20-30 min

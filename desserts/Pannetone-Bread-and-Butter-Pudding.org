@@ -1,12 +1,6 @@
 * Pannetone Bread and Butter Pudding
-  :PROPERTIES:
-  :CUSTOM_ID: pannetone-bread-and-butter-pudding
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 575ml semi skimmed milk
 - 575ml double cream
@@ -18,9 +12,6 @@
 - a little icing sugar
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the vanilla pod in half and bring milk and cream to the boil in a
    saucepan.

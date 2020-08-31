@@ -1,12 +1,6 @@
 * Five-Spice Lamb
-  :PROPERTIES:
-  :CUSTOM_ID: five-spice-lamb
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 625g lamb
 - 2 teaspoon chinese 5 spice powder
@@ -23,9 +17,6 @@
 - strips of red and yellow pepper and fresh coriander to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. cut the lamb into narrow strips and place in a bowl. add the 5 spice
    powderand 1/4teaspoon salt. mix well and leave to marinate for a t

@@ -1,12 +1,6 @@
 * Apple Snow
-  :PROPERTIES:
-  :CUSTOM_ID: apple-snow
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g granny smith apples peeled cored and chopped
 - zest and juice of 1 lemon
@@ -15,9 +9,6 @@
 - 25g dark chocolate grated
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place the apples with the lemon zest and juice, sugar and 2
    tablespoons of water in a saucepan and cook covered over a low heat

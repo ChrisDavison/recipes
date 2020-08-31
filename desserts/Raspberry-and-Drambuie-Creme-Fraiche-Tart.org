@@ -1,12 +1,6 @@
 * Raspberry and Drambuie Creme Fraiche Tart
-  :PROPERTIES:
-  :CUSTOM_ID: raspberry-and-drambuie-creme-fraiche-tart
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 50g and 3 tablespoon golden caster sugar
 - 125g ground almonds
@@ -19,9 +13,6 @@
 - lightly whipped cream to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. for pastry, place 50g sugar, the almonds, flour and butter in a food
    processor. process until it resembles bread crumbs. add the medium

@@ -1,12 +1,6 @@
 * Oatcakes
-  :PROPERTIES:
-  :CUSTOM_ID: oatcakes
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 250g oatmeal
 - 25g butter (melted)
@@ -15,9 +9,6 @@
 - 150ml hot water
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1.  preheat oven to 180C
 2.  put oatmeal, bicarb, and salt into bowl

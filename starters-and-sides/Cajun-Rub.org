@@ -1,7 +1,4 @@
 * Cajun Rub
-  :PROPERTIES:
-  :CUSTOM_ID: cajun-rub
-  :END:
 
 - 1 tablespoon paprika
 - 1/2 tablespoon cayenne or chilli powder

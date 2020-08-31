@@ -1,12 +1,6 @@
 * Chicken Jalfrezi
-  :PROPERTIES:
-  :CUSTOM_ID: chicken-jalfrezi
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 teaspoon mustard oil
 - 3 tablespoons vegetable oil
@@ -27,9 +21,6 @@
 - sprigs of fresh coriander to garnish
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. heat the mustard oil in a large frying pan set over a high heat for
    about 1 min until it begins to smoke

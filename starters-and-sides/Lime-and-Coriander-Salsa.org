@@ -1,12 +1,6 @@
 * Lime and Coriander Salsa
-  :PROPERTIES:
-  :CUSTOM_ID: lime-and-coriander-salsa
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 450g ripe tomatoes
 - 1 small red onion finely chopped
@@ -17,9 +11,6 @@
 - 1teaspoon lime marmalade
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place tomatoes in a bowl and cover with boiling water. leave for 2
    mins and then drain.peel away skins. quarter tomatoes discard seeds

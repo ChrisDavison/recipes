@@ -1,12 +1,6 @@
 * Rhubarb and Butterscotch Sponge Pudding
-  :PROPERTIES:
-  :CUSTOM_ID: rhubarb-and-butterscotch-sponge-pudding
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - for the sponge:
 - 4 oz butter or margarine
@@ -20,9 +14,6 @@
 - caramel sauce
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. in a bowl cream the butter and sugar until light and fluffy
 2. sift in half the flour and the baking powder and mix well

@@ -1,12 +1,6 @@
 * Raspberry Fool
-  :PROPERTIES:
-  :CUSTOM_ID: raspberry-fool
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 300g fresh raspberries
 - 50g icing sugar
@@ -16,9 +10,6 @@
 - raspberies and lemon balm leaves to decorate
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. put the raspberries and icing sugar in blender and process until
    smooth. or press through strainer with back of spoon

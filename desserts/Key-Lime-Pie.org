@@ -1,12 +1,6 @@
 * Key-Lime Pie
-  :PROPERTIES:
-  :CUSTOM_ID: key-lime-pie
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 80g butter
 - 225g ginger nut biscuits crushed
@@ -17,9 +11,6 @@
 - green food colouring
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. melt the butter in a pan and add the biscuit crumbs. press into base
    and sides of a 9" loose bottomed cake tin. put in fridge to chill

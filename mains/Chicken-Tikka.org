@@ -1,12 +1,6 @@
 * Chicken Tikka
-  :PROPERTIES:
-  :CUSTOM_ID: chicken-tikka
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 teaspoon finely chopped fresh ginger
 - 1 teaspoon fresh garlic crushed
@@ -23,9 +17,6 @@
 - 3 tablespoons oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. blend the ginger, garlic, ground coriander, ground cumin and chilli
    powder in a large mixing bowl

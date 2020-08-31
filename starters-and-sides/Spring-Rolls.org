@@ -1,12 +1,6 @@
 * Spring Rolls
-  :PROPERTIES:
-  :CUSTOM_ID: spring-rolls
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 5 mushrooms
 - 1 large carrot
@@ -25,9 +19,6 @@
 - light soy sauce, light brown sugar, sesame oil and vegetable oil
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. place chopped chicken in a bowl with marinade Ingredients mix well
    and place in fridge for 30 mins

@@ -1,12 +1,6 @@
 * Vegan Power-bowl
-  :PROPERTIES:
-  :CUSTOM_ID: vegan-power-bowl
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 3tbsp olive oil
 - 1/4tsp cumin
@@ -22,9 +16,6 @@
 - 1 1/4 tsp sea salt
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Preheat oven to 400F
 - Roast sweet potato and onion with 1tbsp olive oil, 1/2 tsp salt, 1/4

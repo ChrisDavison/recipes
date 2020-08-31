@@ -1,12 +1,6 @@
 * Couscous Salad
-  :PROPERTIES:
-  :CUSTOM_ID: couscous-salad
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - plain couscous
 - flat leaf parsley
@@ -15,9 +9,6 @@
 - fried bacon chopped(streaky. parma,proscuttio)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. make couscous to required quantity with butter and leave to cool
 2. fry bacon well and chop into pieces

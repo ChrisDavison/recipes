@@ -1,12 +1,6 @@
 * Teriyaki Marinade
-  :PROPERTIES:
-  :CUSTOM_ID: teriyaki-marinade
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 cloves garlic crushed
 - 1 teaspoon fresh ginger finely chopped

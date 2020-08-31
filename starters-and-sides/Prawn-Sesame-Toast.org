@@ -1,12 +1,6 @@
 * Prawn Sesame Toast
-  :PROPERTIES:
-  :CUSTOM_ID: prawn-sesame-toast
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 2 cups prawns
 - 1 egg white
@@ -21,9 +15,6 @@
 - fresh ginger (optional)
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. put all Ingredients except the bread and sesame seeds in a food
    processor and blend to a paste

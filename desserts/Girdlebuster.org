@@ -1,12 +1,6 @@
 * Girdlebuster
-  :PROPERTIES:
-  :CUSTOM_ID: girdlebuster
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 /Base/
 
@@ -26,9 +20,6 @@
 - 125ml double cream
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. process the biscuits with the butter and chocolate pieces or chips
    until it forms a damp but still crumb-like clump. press into a 23cm

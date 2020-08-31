@@ -1,14 +1,8 @@
 * Spinach and Tomato Quesadilla
-  :PROPERTIES:
-  :CUSTOM_ID: spinach-and-tomato-quesadilla
-  :END:
 
 ~400 cal
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 50g mozarella (~1/2 a ball)
 - 20g sliced cheddar
@@ -18,9 +12,6 @@
 - 1 tbsp pesto
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 - Spread pesto on half the tortilla
 - Add a light layer of cheeses

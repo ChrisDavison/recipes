@@ -1,12 +1,6 @@
 * Chilli Con Carne
-  :PROPERTIES:
-  :CUSTOM_ID: chilli-con-carne
-  :END:
 
 ** Ingredients
-   :PROPERTIES:
-   :CUSTOM_ID: ingredients
-   :END:
 
 - 1 large onion
 - 1 red pepper
@@ -25,9 +19,6 @@
 White rice to serve
 
 ** Method
-   :PROPERTIES:
-   :CUSTOM_ID: method
-   :END:
 
 1. Dice onion and chop pepper. Peel and finely chop garlic.
 2. Cook onions, stirring occasionally. About 5 minutes.
