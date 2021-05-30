@@ -1,7 +1,7 @@
-* Chicken Jalfrezi
-@recipe @main
+#+TITLE: Chicken Jalfrezi
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 teaspoon mustard oil
 - 3 tablespoons vegetable oil
@@ -21,7 +21,7 @@
 - salt
 - sprigs of fresh coriander to garnish
 
-** Method
+* Method
 
 1. heat the mustard oil in a large frying pan set over a high heat for about 1 min until it begins to smoke
 2. add the vegetable oil reduce the heat and add the onion and garlic. fry the onion and garlic until golden and soft

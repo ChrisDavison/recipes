@@ -1,9 +1,7 @@
-* Almond Biscotti
-@recipe @dessert
+#+TITLE: Almond Biscotti
+#+ROAM_TAGS: @recipe @dessert
 
-@recipe @dessert
-
-** Ingredients
+* Ingredients
 *If cut into 16, about 75 calories per biscuit*
 
 - 110g plain flour
@@ -15,7 +13,7 @@
 - 1 large egg, lightly beaten
 - few drops almond extract
 
-** Method
+* Method
 
 1.  Preheat oven to 170
 2.  Sift flour, baking powder, and salt into large bowl. Add ground and whole almonds, and sugar.

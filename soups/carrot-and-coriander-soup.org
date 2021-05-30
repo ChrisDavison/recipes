@@ -1,7 +1,7 @@
-* Carrot and Coriander Soup
-@soup @recipe
+#+TITLE: Carrot and Coriander Soup
+#+ROAM_TAGS: @soup @recipe
 
-** Ingredients
+* Ingredients
 
 - 25g butter
 - 1 medium onion finely chopped
@@ -16,7 +16,7 @@
 - 150ml of sincle cream
 - 2 tablespoon chopped fresh coriander
 
-** Method
+* Method
 
 1. melt the butter and cook the onion and garlic gently until soft without colouring
 2. add the grated carrot, stock and nutmeg

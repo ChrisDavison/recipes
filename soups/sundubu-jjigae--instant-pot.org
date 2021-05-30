@@ -1,7 +1,7 @@
-* Sundubu Jjigae (Soft tofu stew, korean)
-@recipe @soup @instantpot
+#+TITLE: Sundubu Jjigae (Soft tofu stew, korean)
+#+ROAM_TAGS: @recipe @soup @instantpot
 
-** Ingredients
+* Ingredients
 
 - 1/2 onion, chopped
 - 2 cloves garlic, minced
@@ -20,7 +20,7 @@
 
 Serve: rice, kimchi, sides
 
-** Method
+* Method
 
 1. Add oil to instant pot and press *Saute*.
 2. Add onion, garlic, and jalapeno. Saute till onions soft/translucent.

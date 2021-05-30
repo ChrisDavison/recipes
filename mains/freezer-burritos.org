@@ -1,7 +1,7 @@
-* Freezer Burritos
-@recipe @main
+#+TITLE: Freezer Burritos
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 1/4 lb mince
 - 1/4 cup chopped onion
@@ -12,7 +12,7 @@
 - 2 cups grated cheddar cheese
 - 12 tortillas
 
-** Method
+* Method
 
 1. Cook beef and onions over medium heat. Drain. Stir in salsa and taco seasoning, and bring to the boil. Reduce and simmer for 2-3 min. Set aside in a large bowl.
 2. Blitz pinto beans and water until smooth.

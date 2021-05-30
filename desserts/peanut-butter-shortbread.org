@@ -1,9 +1,9 @@
-* Peanut-Butter Shortbread
-@recipe @dessert
+#+TITLE: Peanut-Butter Shortbread
+#+ROAM_TAGS: @recipe @dessert
 
 Makes 20 rounds
 
-** Ingredients
+* Ingredients
 
 - 225g plain flour
 - 115g caster sugar
@@ -13,7 +13,7 @@ Makes 20 rounds
 
 (adding 20g protein from protein powder will bump nutrition to ~3.2g protein per round)
 
-** Method
+* Method
 
 1. Beat butter & peanut butter with wooden spoon until creamy.
 2. Gradually beat in sugar until mixture looks lighter in colour, and is fluffy

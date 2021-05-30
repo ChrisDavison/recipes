@@ -1,7 +1,7 @@
-* Peanut Sesame Chicken
-@recipe @main
+#+TITLE: Peanut Sesame Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 tablespoon vegetable oil
 - 2 tablespoon sesame oil
@@ -16,7 +16,7 @@
 - 60g roasted shelled unsalted peanuts
 - rice or noodles to serve
 
-** Method
+* Method
 
 1. heat oils in wok until smoking add the chicken strips and stir fry for 4-5 mins or until browned
 2. add the broccoli, corn and red pepper stir fry over high heat for 1-2 mins or until soft

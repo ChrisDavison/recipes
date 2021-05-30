@@ -1,7 +1,7 @@
-* Stifado
-@recipe @main
+#+TITLE: Stifado
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1/4 cup olive oil
 - 1.1/2lbs beef cubed
@@ -18,7 +18,7 @@
 - 2 cups red wine
 - 1/2lb feta cheese
 
-** Method
+* Method
 
 1. heat olive oil in pan. toss the beef in flour until evenly coated, then fry in the olive oil until seared and brown. it's best to fry in batches and then remove from pan and put aside.
 2. fry onions and mushrooms (if used) for 5 minutes then add the tomatoes, garlic and all spices.

@@ -1,7 +1,7 @@
-* Teriyaki Marinade
-@starter @recipe @marinade
+#+TITLE: Teriyaki Marinade
+#+ROAM_TAGS: @starter @recipe @marinade
 
-** Ingredients
+* Ingredients
 
 - 2 cloves garlic crushed
 - 1 teaspoon fresh ginger finely chopped

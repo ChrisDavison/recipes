@@ -1,9 +1,9 @@
-* Curried Chickpeas with Garlic Spinach
-@recipe @main
+#+TITLE: Curried Chickpeas with Garlic Spinach
+#+ROAM_TAGS: @recipe @main
 
 For ~3 bowls of ~450 cal.
 
-** Ingredients
+* Ingredients
 
 1. Garlicky spinach
 
@@ -30,7 +30,7 @@ For ~3 bowls of ~450 cal.
    - green onion
    - 3 cups cooked rice
 
-** Method
+* Method
 
 - Cook rice
 - heat 1tsp olive oil over medium heat. Add garlic and cook until fragrant. Add baby spinach and saute for 2-3 minutes. Toss in sea salt and lemon juice, and toss to coat. Remove from heat and place on a small plate.

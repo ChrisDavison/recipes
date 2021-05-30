@@ -1,7 +1,7 @@
-* Cream of Chicken Soup
-@recipe @soup
+#+TITLE: Cream of Chicken Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 4 tablespoon unsalted butter
 - 1 large onion chopped
@@ -13,7 +13,7 @@
 - fresh tarragon leaves or parsley to garnish
 - deep fried croutons to serve
 
-** Method
+* Method
 
 1. melt the butter in a large saucepan and fry the onion for 3 nins.
 2. add the finely shredded chicken to the saucepan with 300ml chicken stock.mix the Ingredients together in the pan.

@@ -1,7 +1,7 @@
-* Chicken Tossed in Black Pepper
-@recipe @main
+#+TITLE: Chicken Tossed in Black Pepper
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 8 chicken whatevers
 - 1 teaspoon fresh ginger root finely chopped
@@ -21,7 +21,7 @@
 - 1 tablespoon lemon juice
 - fresh coriander leaves to garnish
 
-** Method
+* Method
 
 1. combine the ginger, garlic, salt and coarsly ground black pepper together in a mixing bowl
 2. add the chicken pieces to the mixture coat and set aside

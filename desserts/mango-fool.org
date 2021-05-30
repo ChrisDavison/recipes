@@ -1,14 +1,14 @@
-* Mango Fool
-@recipe @dessert
+#+TITLE: Mango Fool
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 2 ripe mangoes
 - 100g crème fraiche
 - 90g plain yougurt
 - 8 wafer thin bicuits to serve
 
-** Method
+* Method
 
 1. peel the mangoes and cut the flesh away from the stone. place half the fruit in a processor and blend until smooth. chop the remaining fruit and divide between 4 ramekins.
 2. beat together the crème fraiche and yogurt and stir in the pureed mango

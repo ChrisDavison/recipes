@@ -1,7 +1,7 @@
-* Pineapple Cheesecake
-@recipe @dessert
+#+TITLE: Pineapple Cheesecake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 8 teaspoons butter
 - 4 digestive biscuits crumbled
@@ -15,7 +15,7 @@
 - 1 or 2 drops vanilla flavouring
 - lemon zest to garnish
 
-** Method
+* Method
 
 1. melt butter and add to crushed biscuits. lightly butter loose bottom cake tin and press in biscuit mixture. place in fridge to cool and set base.
 2. dissolve gelatine in warm water and add lemon juice and zest.

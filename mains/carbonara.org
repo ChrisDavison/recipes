@@ -1,7 +1,7 @@
-* Carbonara
-@recipe @main
+#+TITLE: Carbonara
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 300g pasta(penne,tagliatelle)
 - 4 tablespoon butter or olive oil
@@ -12,7 +12,7 @@
 - salt and pepper to taste
 - freshly grated parmesan cheese
 
-** Method
+* Method
 
 1. cook pasta of your choice, drain and keep warm
 2. heat the butter or oil in a pan over a low heat and fry the pancetta until lightly browned(about 10mins)

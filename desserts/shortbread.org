@@ -1,7 +1,7 @@
-* Shortbread
-@recipe @dessert
+#+TITLE: Shortbread
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 225g plain flour
 - 125g caster sugar
@@ -10,7 +10,7 @@
 - 175g soft butter
 - caster sugar to dust
 
-** Method
+* Method
 
 1. put all the Ingredients into processor bowl with knife blade and process for 10-15 secs or until the mixture forms a dough ball
 2. if the dough is too soft to handle chill slightly before working

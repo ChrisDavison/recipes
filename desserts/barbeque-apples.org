@@ -1,7 +1,7 @@
-* Barbeque'd Apples
-@recipe @dessert
+#+TITLE: Barbeque'd Apples
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 4 granny smith apples
 - 2 tablespoons walnuts chopped
@@ -11,7 +11,7 @@
 - 4 tablespoons butter
 - single cream or thick natural yogurt to serve
 
-** Method
+* Method
 
 1. core the apples and using a sharp knife score each one around the middle to prevent them splitting
 2. to make the filling, mix together the walnuts almonds sugar and ginger in a bowl

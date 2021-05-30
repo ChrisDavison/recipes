@@ -1,7 +1,7 @@
-* Meatballs in Spicy Sauce
-@recipe @main
+#+TITLE: Meatballs in Spicy Sauce
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 225g floury potatoes diced
 - 225g minced beef or lamb
@@ -25,7 +25,7 @@
 - 1 teaspoon paprika
 - 2 teaspoons corn flour
 
-** Method
+* Method
 
 1. cook the diced potatoes in boiling water for 10 mins until cooked through. drain well and transfer to a large mixing bowl and mash until smooth
 2. add the minced beef or lamb, onion, coriander, celery and garlic and mix well

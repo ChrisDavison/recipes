@@ -1,7 +1,7 @@
-* Karahi Chicken
-@recipe @main
+#+TITLE: Karahi Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 tablespoons ghee
 - 3 garlic cloves crushed
@@ -16,7 +16,7 @@
 - salt
 - warm nan bread,rice or chapatis to serve
 
-** Method
+* Method
 
 1. heat the ghee in a karahi, wok or a large heavy frying pan.add the garlic and onion.stir fry for about 4 minutes until the onion is golden
 2. stir in the garam masala, ground coriander, mint and bay leaf

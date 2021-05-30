@@ -1,7 +1,7 @@
-* Peach Melba Shortcakes
-@recipe @dessert
+#+TITLE: Peach Melba Shortcakes
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 175g self raising flour
 - 1/2teaspoon baking powder
@@ -15,7 +15,7 @@
 - 175g raspberries
 - 2 ripe peaches thinly sliced
 
-** Method
+* Method
 
 1. preheat oven to 180c
 2. sift the flour and baking powder into a bowl. add the bitter and rub in with fingertips to make fine bread crumbs. stir in the sugar then add the milk and egg and mix to a soft dough

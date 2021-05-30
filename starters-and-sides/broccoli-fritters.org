@@ -1,7 +1,7 @@
-* Broccoli Fritters
-@starter @recipe @side
+#+TITLE: Broccoli Fritters
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 6-7 broccoli stems, shredded (about 1.5-2 cups)
 - 2 eggs, whisked
@@ -11,7 +11,7 @@
 - 1 teaspoon minced garlic
 - lots of salt and pepper
 
-** Method
+* Method
 
 1. Send your broccoli stems through a shredder. I used a food processor with the shredding attachment which made it go by super fast.
 2. Add your shredded broccoli to a large bowl along with all other ingredients and mix well.

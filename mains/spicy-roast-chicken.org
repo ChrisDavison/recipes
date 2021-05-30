@@ -1,7 +1,7 @@
-* Spicy Roast Chicken
-@recipe @main
+#+TITLE: Spicy Roast Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 50g ground almonds
 - 50g dessicated coconut
@@ -18,7 +18,7 @@
 - fresh coriander leaves
 - 1 lemon cut into wedges
 
-** Method
+* Method
 
 1. in a heavy base saucepan, dry roast the ground almonds and coconut and set aside
 2. heat the oil in a frying pan and fry the onion, stiring until golden brown

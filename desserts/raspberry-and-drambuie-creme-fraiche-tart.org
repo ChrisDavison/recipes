@@ -1,7 +1,7 @@
-* Raspberry and Drambuie Creme Fraiche Tart
-@recipe @dessert
+#+TITLE: Raspberry and Drambuie Creme Fraiche Tart
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 50g and 3 tablespoon golden caster sugar
 - 125g ground almonds
@@ -13,7 +13,7 @@
 - 250g raspberries
 - lightly whipped cream to serve
 
-** Method
+* Method
 
 1. for pastry, place 50g sugar, the almonds, flour and butter in a food processor. process until it resembles bread crumbs. add the medium egg and process. gather into a ball, wrap in cling film and chill for 1 hour
 2. roll out the dough to fit a 9" deep tart tin. prick the base and chill for several hours or overnight

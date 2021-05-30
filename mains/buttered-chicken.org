@@ -1,7 +1,7 @@
-* Buttered Chicken
-@recipe @main
+#+TITLE: Buttered Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 100g unsalted butter
 - 1 tablespoon vegetable oil
@@ -24,7 +24,7 @@
 - fresh coriander to garnish
 - chopped fresh green chilli to garnish
 
-** Method
+* Method
 
 1. heat the butter and oil in a large pan. add the onions and fry until golden, stirring. reduce the heat
 2. crush the fresh ginger and place in a bowl. add the garam masala, ground coriander, ginger, chilli powder, black cumin seeds, garlic, salt, cardamoms and black peppercorns and blend. add the yogurt and tomato puree and stir to combine

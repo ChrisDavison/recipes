@@ -1,7 +1,7 @@
-* Balsamic Onions
-@starter @side @recipe
+#+TITLE: Balsamic Onions
+#+ROAM_TAGS: @starter @side @recipe
 
-** Ingredients
+* Ingredients
 
 - 4 large onions sliced
 - 4 tablespoon butter
@@ -9,7 +9,7 @@
 - 2 teaspoon sugar
 - 1/4 teaspoon sea salt
 
-** Method
+* Method
 
 1. peel and slice the onions
 2. in a large saucepan melt the butter then add the onions.cook for about 5 mins until they begin to sweat

@@ -1,7 +1,7 @@
-* Lime Chicken Kebaks
-@recipe @main
+#+TITLE: Lime Chicken Kebaks
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 chicken breasts
 - 3 tablespoon lime marmalade
@@ -17,7 +17,7 @@
 - 1 tablespoon lime juice
 - 1 tablespoon fresh coriander
 
-** Method
+* Method
 
 1. slice chicken into thin pieces and thread onto 8 skewers so that the meat forms an s shape down each skewer
 2. arrange kebabs on grill rack. mix together the lime marmalade, vinegar, lime rind and juice. season to taste. brush the dressing generously over the chicken and grill for 5 mins. turn over brush again and repeat cook until chicken cooked

@@ -1,7 +1,7 @@
-* Red Hot Beef with Cashews
-@recipe @main
+#+TITLE: Red Hot Beef with Cashews
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 500g lean beef sirloin thinly sliced
 - 1 teaspoon vegetable oil
@@ -22,7 +22,7 @@
 - 1 spring onion thickly sliced diagonally
 - cucumber slices to garnish
 
-** Method
+* Method
 
 1. cut the beef into 1 cm wide strips and place in a non metallic bowl
 2. toast the sesame seeds in a heavy based pan on a medium heat for 2-3 mins until golden brown shaking the pan occasionally

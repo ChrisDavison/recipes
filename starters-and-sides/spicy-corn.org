@@ -1,7 +1,7 @@
-* Spicy Corn
-@recipe @side
+#+TITLE: Spicy Corn
+#+ROAM_TAGS: @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 200g canned or frozen swwetcorn
 - 1 teaspoon ground cumin
@@ -15,7 +15,7 @@
 - 1/2teaspoon lemon juice
 - fresh coriander leaves
 
-** Method
+* Method
 
 1. thaw frozen sweetcorn or drain canned sweetcorn and set aside
 2. place the ground cumin, garlic, ground coriander, salt, 1 fresh green chilli and the onion in a pestle and mortar or processor to make a fine paste

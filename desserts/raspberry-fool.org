@@ -1,7 +1,7 @@
-* Raspberry Fool
-@recipe @dessert
+#+TITLE: Raspberry Fool
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 300g fresh raspberries
 - 50g icing sugar
@@ -10,7 +10,7 @@
 - 2 egg whites
 - raspberies and lemon balm leaves to decorate
 
-** Method
+* Method
 
 1. put the raspberries and icing sugar in blender and process until smooth. or press through strainer with back of spoon
 2. reserve 1 tablespoon per portion of crème fraiche for decorating

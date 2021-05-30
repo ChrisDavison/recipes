@@ -1,7 +1,7 @@
-* Whiskey Sauce
-@sauce @recipe
+#+TITLE: Whiskey Sauce
+#+ROAM_TAGS: @sauce @recipe
 
-** Ingredients
+* Ingredients
 
 - 30ml scotch whisky
 - 150ml double cream

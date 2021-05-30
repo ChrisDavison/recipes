@@ -1,12 +1,12 @@
-* Making Popcorn
-@recipe @dessert
+#+TITLE: Making Popcorn
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 1/3 cup kernels
 - 2 tbsp Coconut oil
 
-** Method
+* Method
 
 1. Melt coconut oil
 2. Place 4 kernels into oil

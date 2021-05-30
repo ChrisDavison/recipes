@@ -1,7 +1,7 @@
-* Tandoori Chicken
-@recipe @main
+#+TITLE: Tandoori Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 x whole chicken
 - skin removed, jointed
@@ -23,7 +23,7 @@
 - serve
 - lime wedges to serve
 
-** Method
+* Method
 
 1. make deep incisions into the chicken breasts, thighs and drumsticks.
 2. whisk the yoghurt in the large bowl, add the remaining marinade Ingredients and mix until well combined.

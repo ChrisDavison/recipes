@@ -1,7 +1,7 @@
-* Apple and Passionfruit Meringue
-@recipe @dessert
+#+TITLE: Apple and Passionfruit Meringue
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - ready made sweet pastry case
 
@@ -20,7 +20,7 @@
 
 - clotted cream
 
-** Method
+* Method
 
 1. cook the apples and sugar in a saucepan for 6-8 minutes, or until softened. set aside to cool.
 2. drain the apple mixture and place it into a bowl with the passion fruit. spoon the filling into the cooked pastry case.

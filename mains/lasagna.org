@@ -1,7 +1,7 @@
-* Lasagna
-@recipe @main
+#+TITLE: Lasagna
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 11/2lbs mince
 - tin tomatoes chopped
@@ -16,7 +16,7 @@
 - lasagne sheets
 - /Bechemel Sauce/
 
-** Method
+* Method
 
 1. Brown mince and remove from pot
 

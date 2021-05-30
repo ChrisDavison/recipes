@@ -1,7 +1,7 @@
-* Tropical Meringues with Lemon Cream
-@recipe @dessert
+#+TITLE: Tropical Meringues with Lemon Cream
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 4 egg whites
 - 225g caster sugar
@@ -11,7 +11,7 @@
 - 6 passion fruit
 - 200g pineapple cut into small chunks
 
-** Method
+* Method
 
 - preheat oven to 150c
 - line 2 baking sheets with baking paper

@@ -1,7 +1,7 @@
-* Lemon Meringue Pie
-@recipe @dessert
+#+TITLE: Lemon Meringue Pie
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 12 floz water
 - 4 tbsp cornflour
@@ -12,7 +12,7 @@
 - 4 tbsp caster sugar (for meringue)
 - short crust pastry
 
-** Method
+* Method
 
 1. Roll out pastry; line flan dish and prick the bottom with a fork. Brush with egg white
 2. Blind bake for ~20 min at 190C

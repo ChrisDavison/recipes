@@ -1,7 +1,7 @@
-* Spring Rolls
-@starter @recipe @side
+#+TITLE: Spring Rolls
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 5 mushrooms
 - 1 large carrot
@@ -18,7 +18,7 @@
 - 1 chicken breast cooked and chopped then marinade in 1 teaspoon each of
 - light soy sauce, light brown sugar, sesame oil and vegetable oil
 
-** Method
+* Method
 
 1. place chopped chicken in a bowl with marinade Ingredients mix well and place in fridge for 30 mins
 2. remove the centres and slice the mushrooms fairly thinly. cut the carrot and bamboo into julienne strips. chop the spring onion

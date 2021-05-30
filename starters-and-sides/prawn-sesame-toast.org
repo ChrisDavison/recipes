@@ -1,7 +1,7 @@
-* Prawn Sesame Toast
-@starter @recipe @side
+#+TITLE: Prawn Sesame Toast
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 2 cups prawns
 - 1 egg white
@@ -15,7 +15,7 @@
 - 2-3 inches cooking oil
 - fresh ginger (optional)
 
-** Method
+* Method
 
 1. put all Ingredients except the bread and sesame seeds in a food processor and blend to a paste
 2. remove crusts from the bread and cut into triangles

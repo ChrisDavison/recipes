@@ -1,7 +1,7 @@
-* Vegan Power-bowl
-@recipe @main @vegan @vegetarian
+#+TITLE: Vegan Power-bowl
+#+ROAM_TAGS: @recipe @main @vegan @vegetarian
 
-** Ingredients
+* Ingredients
 
 - 3tbsp olive oil
 - 1/4tsp cumin
@@ -16,7 +16,7 @@
 - 1/2tsp ground pepper
 - 1 1/4 tsp sea salt
 
-** Method
+* Method
 
 - Preheat oven to 400F
 - Roast sweet potato and onion with 1tbsp olive oil, 1/2 tsp salt, 1/4 tsp pepper, and 1/4 tsp cumin. Spread out into an even layer and roast for 10 minutes. Flip and push to one side of the tray, then add the kale with 2tsp olive oil, and a pinch of salt and pepper. Roast for another 10 min

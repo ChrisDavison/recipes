@@ -1,7 +1,7 @@
-* Cauliflower and Mull Cheddar Soup
-@recipe @soup
+#+TITLE: Cauliflower and Mull Cheddar Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 50g butter
 - 1 onion finely chopped
@@ -11,7 +11,7 @@
 - freshly ground sea salt and pepper
 - 1 tablespoon chopped fresh parsley to garnish
 
-** Method
+* Method
 
 1. heat the butter in a large pan, add the onion and garlic and cook till soft and clear
 2. chop the cauliflower as finely as possible and add to the onion. pour in 1l of boiling water. bring back to the boil reduce heat and simmer for 20 mins

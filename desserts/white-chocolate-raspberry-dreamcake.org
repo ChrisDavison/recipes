@@ -1,7 +1,7 @@
-* White Chocolate Raspberry Dreamcake
-@recipe @dessert
+#+TITLE: White Chocolate Raspberry Dreamcake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 100g digestive biscuits
 - 50g unsalted butter
@@ -18,7 +18,7 @@
 
 - a few raspberries and fresh mint leaves
 
-** method
+* method
 
 1. pulverise the biscuits and maltesers in a food processor, add the melted butter and press into a 20cm loose bottomed flan tin and chill
 2. melt the chocolate in a bowl set over a pan of simmering water.put the yogurt in a bowl and stir in the chocolate.sprinkle the gelatine over 6 tablespoons of boiling water in a smal pan then heat gently and stir until dissolved.cool a little then stir into the yogurt mixture

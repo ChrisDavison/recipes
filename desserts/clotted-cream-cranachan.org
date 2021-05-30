@@ -1,7 +1,7 @@
-* Clotted-cream Cranachan
-@recipe @dessert
+#+TITLE: Clotted-cream Cranachan
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 2x170g tub clotted cream
 - 75g jumbo oat flake
@@ -9,7 +9,7 @@
 - about 2 tablespoon whisky
 - 500g mixed berries
 
-** Method
+* Method
 
 1. preheat the grill to hot
 2. tip the cream into a bowl and stir

@@ -1,7 +1,7 @@
-* Carrot and Ginger Cake
-@recipe @dessert
+#+TITLE: Carrot and Ginger Cake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - Cake
 
@@ -30,7 +30,7 @@
   - stem ginger
   - ground ginger
 
-** Method
+* Method
 
 1. preheat oven to 180 degrees. grease and line an 8" round cake tin with baking parchment.
 2. sift the flour, baking powder, bicarbonate of soda, ground ginger and salt into a bowl. stir in the sugar, carrots, stem ginger and root ginger. beat together the eggs, oil and orange juice, then pour into the bowl. mix the Ingredients together well

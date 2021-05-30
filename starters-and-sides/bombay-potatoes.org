@@ -1,7 +1,7 @@
-* Bombay Potatoes
-@starter @recipe @side
+#+TITLE: Bombay Potatoes
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 50g ghee
 - 1 finely chopped onion
@@ -12,7 +12,7 @@
 - 1 small tin chopped tomatoes
 - fresh coriander to garnish
 
-** Method
+* Method
 
 1. melt ghee in saucepan, add onion, mustard seed and fennel or cumin seed. fry until golden
 2. add hot curry paste, potatoes and mix well. fry for further 3 mins

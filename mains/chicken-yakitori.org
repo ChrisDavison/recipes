@@ -1,7 +1,7 @@
-* Chicken Yakitori
-@recipe @main
+#+TITLE: Chicken Yakitori
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 400g chicken stir fry
 - 120ml soy sauce
@@ -10,7 +10,7 @@
 - 1/2teaspoon ground ginger
 - small bamboo skewers soaked
 
-** Method
+* Method
 
 1. place chicken in a bowl. mix in the soy sauce, honey, garlic and ginger. cover, place in fridge and allow to marinate for several hours or overnight
 2. thread one or two strips onto each skewer using a weaving motion. brush with marinade

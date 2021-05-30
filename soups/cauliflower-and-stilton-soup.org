@@ -1,7 +1,7 @@
-* Cauliflower and Stilton Soup
-@recipe @soup
+#+TITLE: Cauliflower and Stilton Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 15g butter
 - 1 onion finely chopped
@@ -15,7 +15,7 @@
 - 50g blue stilton cheese crumbled
 - freshly ground sea salt and black pepper
 
-** Method
+* Method
 
 1. heat the butter in a large pan, add the onion and garlic and cook till soft and clear
 2. add the cauliflower and veg stock to the pan and bring to the boil. cover and cook on a very low heat for about 20mins until cauliflower is tender

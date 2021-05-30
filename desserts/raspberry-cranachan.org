@@ -1,7 +1,7 @@
-* Raspberry Cranachan
-@recipe @dessert
+#+TITLE: Raspberry Cranachan
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 15g pinhead oatmeal
 - 2 tablespoon honey
@@ -11,7 +11,7 @@
 - punnet raspberries
 - home made shortbread thins
 
-** Method
+* Method
 
 1. toast the oatmeal in a frying pan at high heat
 2. whisk the cream to a soft consistency

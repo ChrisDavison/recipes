@@ -1,7 +1,7 @@
-* Chicken Escalope
-@recipe @main
+#+TITLE: Chicken Escalope
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 chicken breasts, boned, skinned & pounded thin
 - sea salt and freshly ground black pepper
@@ -31,7 +31,7 @@
 - 2 garlic cloves, lightly crushed
 - 600g baby red chard leaves
 
-** Method
+* Method
 
 1. preheat the oven to 200°c.
 2. peel and dice the potatoes. parboil the potatoes in salted water for 5-6 minutes until just tender. drain well and set aside.

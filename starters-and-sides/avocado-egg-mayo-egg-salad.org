@@ -1,5 +1,5 @@
-* Avocado Egg-mayo Egg Salad
-@starter @recipe @salad
+#+TITLE: Avocado Egg-mayo Egg Salad
+#+ROAM_TAGS: @starter @recipe @salad
 
 - 1 Avocado
 - 2 Soft-boiled eggs (hard-boiled is less creamy)

@@ -1,7 +1,7 @@
-* Carrot, Ginger, and Honey Soup
-@recipe @soup
+#+TITLE: Carrot, Ginger, and Honey Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 25g butter
 - 200g onion thinly sliced
@@ -14,7 +14,7 @@
 - 4 tablespoon lightly whipped double cream
 - 1 tablespoon chopped chives
 
-** Method
+* Method
 
 1. melt the butter in a large saucepan on a medium to low heat add the onions and stir well to coat
 2. crush the ginger and roughly chop.add to the onions cover the pan and let sweat for 10mins, without letting the onions brown

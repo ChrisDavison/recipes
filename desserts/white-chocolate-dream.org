@@ -1,7 +1,7 @@
-* White Chocolate Dream
-@recipe @dessert
+#+TITLE: White Chocolate Dream
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 1 ready made sweet pastry case
 - 175g white chocolate broken into pieces
@@ -13,7 +13,7 @@
 - 1 tablespoon icing sugar
 - 100g red currants
 
-** method
+* method
 
 1. melt 150g of the chocolate in a heatproof bowl over a pan of simmering water making sure the bowl does not touch the water. remove from the heat
 2. with a pastry brush paint a very thin layer of chocolate over the inside of the pastry case and set aside until firm

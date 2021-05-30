@@ -1,7 +1,7 @@
-* Lamb Goulash
-@recipe @main
+#+TITLE: Lamb Goulash
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 oz butter
 - 2 onions chopped
@@ -14,7 +14,7 @@
 - 2oz bacon chopped
 - 5oz carton soured cream
 
-** Method
+* Method
 
 1. melt butter and lightly fry onion garlic and bacon
 2. add lamb to pan and brown with the onions garlic and bacon

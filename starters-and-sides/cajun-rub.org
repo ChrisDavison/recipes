@@ -1,5 +1,5 @@
-* Cajun Rub
-@starter @recipe @marinade
+#+TITLE: Cajun Rub
+#+ROAM_TAGS: @starter @recipe @marinade
 
 - 1 tablespoon paprika
 - 1/2 tablespoon cayenne or chilli powder

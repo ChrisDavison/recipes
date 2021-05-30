@@ -1,7 +1,7 @@
-* Kibbeh
-@recipe @main
+#+TITLE: Kibbeh
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 75g couscous
 - small onion
@@ -16,7 +16,7 @@
 - 4 tablespoon tomato ketchup
 - 2 tablespoon sunflower oil
 
-** Method
+* Method
 
 1. soak couscous in a large bowl covered wiyh cold water and stand for 30 mins or until swollen and soft
 2. drain couscous through a sieve and squeeze out as much moisture as you can

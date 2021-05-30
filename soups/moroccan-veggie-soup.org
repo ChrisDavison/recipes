@@ -1,9 +1,9 @@
-* Moroccan Veggie Soup
-@recipe @soup
+#+TITLE: Moroccan Veggie Soup
+#+ROAM_TAGS: @recipe @soup
 
 ~4 servings (of ~200cal each) ~45 minutes.
 
-** Ingredients
+* Ingredients
 
 - 1 Onion, finely chopped
 - 3 Celery sticks, finely chopped
@@ -21,7 +21,7 @@
 - flat-leaf parsley
 - 1 lemon, 1/2 juiced and 1/2 wedged to serve
 
-** Method
+* Method
 
 1. Heat veg oil in a large pan.
 2. Add onion, celery, and a pinch of salt. Cook gently, covered, for ~10 min, stirring regularly.

@@ -1,9 +1,9 @@
-* 75% Saturday Wholewheat
-@recipe @bread
+#+TITLE: 75% Saturday Wholewheat
+#+ROAM_TAGS: @recipe @bread
 
 From /flour, water, salt, yeast/
 
-** Ingredients (for ~1lb loaf)
+* Ingredients (for ~1lb loaf)
 
 - 375g wholewheat flour
 - 125g plain flour
@@ -11,7 +11,7 @@ From /flour, water, salt, yeast/
 - 3g dried yeast (1/2tsp)
 - 400g water (32-35C)
 
-** Method
+* Method
 
 1. Autolyse. mix both flours, then add the warm water. and mix till combined.
 2. START+25min add salt and yeast. mix dough (pincer method, fold, rest, pincer method, fold, rest)

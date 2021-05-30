@@ -1,7 +1,7 @@
-* Treacle Tart
-@recipe @dessert
+#+TITLE: Treacle Tart
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 225g golden syrup
 - 1 level tablespoon black treacle
@@ -11,7 +11,7 @@
 - 150ml double cream
 - 1 ready made sweet shortcrust pastry case
 
-** method
+* method
 
 1. gently warm the syrup and treacle in a saucepan over a very low heat
 2. stir, then add the lemon zest and juice

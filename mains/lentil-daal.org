@@ -1,7 +1,7 @@
-* Lentil Daal
-@recipe @main
+#+TITLE: Lentil Daal
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 tbsp coconut oil (if none, sub with coconut milk)
 - 1 small green chilli
@@ -24,7 +24,7 @@ For serving
 - Cooked rice
 - Coriander
 
-** Method
+* Method
 
 1. Heat a large pot over a medium heat. Add coconut oil, chilli, ginger, shallot, and garlic. Saute for 3-4 minutes, stirring occasionally
 2. Add curry paste and stir to coat. Saute another 2-3 min

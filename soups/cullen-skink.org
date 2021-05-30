@@ -1,7 +1,7 @@
-* Cullen Skink
-@recipe @soup
+#+TITLE: Cullen Skink
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 2 onions finely chopped
 - 600ml milk
@@ -13,7 +13,7 @@
 - 2 tablespoon freshly chopped chives
 - 3/4pint water
 
-** Method
+* Method
 
 1. put haddock in a large pan with the water. bring to the boil and simmer for 5-10mins until the fish is just cooked. remove fish from the water and flake into large chunks
 2. add the onions and potatoes to the water with plenty of white pepper. the water should cover the vegetables. if not add some milk

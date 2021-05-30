@@ -1,7 +1,7 @@
-* Chicken Biryani
-@recipe @main
+#+TITLE: Chicken Biryani
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1tablespoon vegetable oil
 - 2 garlic cloves crushed
@@ -19,7 +19,7 @@
 - 4 tablespoons plain yogurt to garnish
 - fresh coriander to garnish
 
-** Method
+* Method
 
 1. heat the oil in a large frying pan. add the garlic ginger and onion and saute gently for 2 mins
 2. add the chicken. cook for 3-4 mins until browned. stir in the cinnamon, coriander, cumin, turmeric and rice. cook stirring for 1-2 mins

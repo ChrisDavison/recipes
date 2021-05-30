@@ -1,7 +1,7 @@
-* Beef Satay
-@recipe @main
+#+TITLE: Beef Satay
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 500g beef fillet
 - 2 garlic cloves crushed
@@ -24,7 +24,7 @@
 - 1/2teaspoon chilli powder
 - 1tablespoon dark soy sauce
 
-** Method
+* Method
 
 1. cut the beef into 1 cm cubes and place in a large bowl
 2. add the crushed garlic, grated ginger, sugar, soy sauce, lime juice, sesame oil, ground coriander, turmeric and chilli powder. mix together well to coat the pieces of meat evenly. cover and leave to marinate in the fridge for at least 2 hours or overnight.

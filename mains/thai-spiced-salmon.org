@@ -1,7 +1,7 @@
-* Thai Spiced Salmon
-@recipe @main
+#+TITLE: Thai Spiced Salmon
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 pieces salmon fillet
 - 1" piece fresh ginger grated
@@ -12,7 +12,7 @@
 - 2 tablespoon vegetable oil
 - rice and stir fry veg to serve(or prawn skirlie)
 
-** Method
+* Method
 
 1. mix together ginger, crushed coriander, chilli powder, lime juice and sesame oil to make a marinade
 2. put salmon fillets in non metallic dish, coat with sauce cover with cling film and put in fridge for 30mins

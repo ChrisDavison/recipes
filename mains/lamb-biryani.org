@@ -1,7 +1,7 @@
-* Lamb Biryani
-@recipe @main
+#+TITLE: Lamb Biryani
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 150ml milk
 - 1 teaspoon saffron
@@ -22,7 +22,7 @@
 - 2 fresh green chilli
 - 1/4 bunch fresh coriander
 
-** Method
+* Method
 
 1. boil the milk in a pan with the saffron and set aside. heat the ghee in a pan, add the onion and fry until golden. remove 1/2the onion and ghee from the pan and set aside.
 2. combine the meat, yogurt, ginger, garlic, garam masala, 1 teaspoon salt and turmeric in a large bowl

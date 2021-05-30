@@ -1,7 +1,7 @@
-* Tandoori Monkfish
-@recipe @main
+#+TITLE: Tandoori Monkfish
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 lime juice only
 - 15g garlic minced
@@ -14,7 +14,7 @@
 - 450g monkfish tails cut into goujons
 - 1 tablespoon vegetable oil
 
-** Method
+* Method
 
 1. mix the lime juice,garlic,ginger.ground cumin,coriander,garam masala,paprika,and salt in a bowl
 2. add the monkfish and stir until well coated

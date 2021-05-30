@@ -1,7 +1,7 @@
-* Fudge Pancakes with Toffee Sauce
-@recipe @dessert
+#+TITLE: Fudge Pancakes with Toffee Sauce
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 /Pancakes/
 
 - 225g plain flour
@@ -19,7 +19,7 @@
 - 55g soft dark brown sugar
 - 55g clear honey
 
-** Method
+* Method
 
 1. in a medium bowl whisk together the flour sugar and baking powder
 2. whisk the egg butter and milk into the flour until you have a smooth batter

@@ -1,7 +1,7 @@
-* Girdlebuster
-@recipe @dessert
+#+TITLE: Girdlebuster
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 /Base/
 
 - 375g digestive biscuits
@@ -19,7 +19,7 @@
 - 2 x 15ml tablespoons bourbon
 - 125ml double cream
 
-** Method
+* Method
 
 1. process the biscuits with the butter and chocolate pieces or chips until it forms a damp but still crumb-like clump. press into a 23cm pie plate or flan dish. form a lip of biscuit a little higher than the plate or dish if you can. this process takes patience as you need ideally to form a smooth even layer. freeze this biscuit-lined layer for about an hour so it gets really hard
 2. let your ice cream soften, just enough to be scooped, in the fridge. spread the ice cream into the hard-biscuit-lined dish to form a layer. then cover in clingfilm and replace in the freezer.

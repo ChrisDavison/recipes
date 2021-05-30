@@ -1,7 +1,7 @@
-* Lemon Chicken
-@recipe @main
+#+TITLE: Lemon Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 350g boned and skinned chicken breast
 - 1 tablespoon rice wine or dry sherry
@@ -18,7 +18,7 @@
 - 1 teaspoon salt
 - 1 teaspoon lemon rind
 
-** Method
+* Method
 
 1. to make the lemon sauce, heat the oil in a wok until hot, reduce the heat and add all the other Ingredients. blend well then bring to the boil and stir until smooth
 2. cut the chicken into thin slices and place in a shallow dish with wine, salt and pepper. leave to marinate for 25-30 mins

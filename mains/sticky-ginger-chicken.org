@@ -1,7 +1,7 @@
-* Sticky Ginger Chicken
-@recipe @main
+#+TITLE: Sticky Ginger Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 garlic cloves peeled
 - 1 piece stem ginger in syrup
@@ -13,7 +13,7 @@
 - 12 chicken whatevers
 - lime wedges and coriander leaves to garnish
 
-** Method
+* Method
 
 1. roughly chop the garlic and ginger.in a pestle and mortar crush the garlic, stem ginger and coriander seeds to a paste, gradually working in the ginger syrup, soy sauce, lime juice and sesame oil
 2. put the garlic and ginger paste into a bowl and toss the chicken pieces in the mixture to coat evenly.cover and leave in the fridge to marinate for 8 hours or overnight

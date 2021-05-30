@@ -1,14 +1,14 @@
-* Dark Chocolate Mousse
-@recipe @dessert
+#+TITLE: Dark Chocolate Mousse
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 225g plain dark chocolate chopped
 - 4 eggs separated
 - 25g caster sugar
 - 150ml whipping cream
 
-** Method
+* Method
 
 1. place chocolate in a bowl over simmering water (bowl should not be in contact with water)
 2. when melted remove bowl from pan beat the egg yolks and whisk them into the chocolate. this slightly cooks but does not scramble them.leave to cool to a warm room temperature.

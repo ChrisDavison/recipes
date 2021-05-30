@@ -1,9 +1,9 @@
-* Gingerbread
-@recipe @dessert
+#+TITLE: Gingerbread
+#+ROAM_TAGS: @recipe @dessert
 
 Makes about 16 servings of 180cal
 
-** Ingredients
+* Ingredients
 
 - 255g whole wheat flour, or 8.5 oz all-purpose flour
 - 50g granulated sugar
@@ -19,7 +19,7 @@ Makes about 16 servings of 180cal
 - 227g buttermilk
 - 92g diced crystallized ginger
 
-** Method
+* Method
 
 - Grease a 9" square pan and preheat oven to 350F
 - In a large bowl, whisk flour, sugar, baking soda, salt, ginger, cinnamon, cloves, and nutmeg

@@ -1,7 +1,7 @@
-* Sesame Coated Tuna
-@recipe @main
+#+TITLE: Sesame Coated Tuna
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 tuna steaks
 - 3/4cup sesame seeds
@@ -16,7 +16,7 @@
 - 1 tablespoon lemon juice
 - 2 tablespoon virgin olive oil
 
-** Method
+* Method
 
 1. cut tuna into 3 pieces. roll in sesame seed until well coated. refrigerate for 15 mins
 2. place tomato, coriander, garlic and lemon juice in a bowl and mix well

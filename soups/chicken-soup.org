@@ -1,7 +1,7 @@
-* Chicken Soup
-@recipe @soup
+#+TITLE: Chicken Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 3 smoked streaky rindless bacon slices chopped
 - 2 tablespoon butter
@@ -15,7 +15,7 @@
 - salt & pepper
 - soda bread to serve
 
-** Method
+* Method
 
 1. fry the bacon and chicken gently in a large saucepan for 10 mins
 2. add the butter,poatatoes and onions and cook for 15mins stirring all the time

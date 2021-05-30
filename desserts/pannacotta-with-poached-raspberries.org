@@ -1,7 +1,7 @@
-* Pannacotta with Poached Raspberries
-@recipe @dessert
+#+TITLE: Pannacotta with Poached Raspberries
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 420ml double cream
 - 280ml milk
@@ -12,7 +12,7 @@
 - 1 punnet fresh 420ml raspberries
 - 1 lemon
 
-** Method
+* Method
 
 1. add milk, cream & 150g of the sugar to a pan and heat gently
 2. split vanilla pod, scrape seeds and add to pan. turn up heat slightly and bring to a gentle simmer while stirring constantly

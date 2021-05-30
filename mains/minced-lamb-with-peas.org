@@ -1,7 +1,7 @@
-* Minced Lamb with Peas
-@recipe @main
+#+TITLE: Minced Lamb with Peas
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 6 tablespoons oil
 - 1 medium onion sliced
@@ -15,7 +15,7 @@
 - 450g lean minced lamb
 - 100g peas
 
-** Method
+* Method
 
 1. heat the oil in a medium pan. add the oinion slices and fry until golden brown, stirring
 2. add 2 of the green chillis, half of the fresh coriander leaves and the chopped tomatoes to the pan and reduce the heat to a gentle simmer

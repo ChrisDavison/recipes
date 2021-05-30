@@ -1,7 +1,7 @@
-* Baked Bananas
-@recipe @dessert
+#+TITLE: Baked Bananas
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 4 bananas
 - 2 passionfruit
@@ -17,7 +17,7 @@
 
 ...or serve with greek natural yogurt and honey slightly sweetened with icingsugar
 
-** Method
+* Method
 
 1. to make the orange flavour cream, pour the double cream into a mixing bowl and sprinkle over the icing sugar.whisk the mixture to soft peaks. carefully fold in the orange liqueur. chill in the fridge until required
 2. peel the bananas and place each in a sheet of kitchen foil

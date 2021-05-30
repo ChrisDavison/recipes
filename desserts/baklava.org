@@ -1,7 +1,7 @@
-* Baklava
-@recipe @dessert
+#+TITLE: Baklava
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 /For Baklava/
 
 - 300 g shelled pistachio nuts, or almonds (or a mixture of both)
@@ -19,7 +19,7 @@
 - 1 tsp whole cloves
 - 1-2 tsp orange flower water, optional
 
-** Method
+* Method
 
 1. preheat the oven to 180c/gas 4.
 2. for the baklava: grind the nuts in a food processor until coarsely ground, then mix in the ground cinnamon.

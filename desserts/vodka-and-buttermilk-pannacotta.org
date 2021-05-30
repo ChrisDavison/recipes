@@ -1,7 +1,7 @@
-* Vodka and Buttermilk Pannacotta
-@recipe @dessert
+#+TITLE: Vodka and Buttermilk Pannacotta
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 300ml double cream
 - 1 vanilla pod, split, seeds scraped out
@@ -11,7 +11,7 @@
 - 25ml vodka
 - 2 punnets summer fruit, such as raspberries, blueberries, strawberries and blackberries
 
-** Method
+* Method
 
 1. chill a jug in the freezer.
 2. heat the double cream, vanilla pod and seeds and 100g/3½oz of the sugar in a saucepan until just boiling. remove the pan from heat, add the soaked gelatine and buttermilk and whisk until well combined

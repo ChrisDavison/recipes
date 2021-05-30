@@ -1,9 +1,9 @@
-* Chicken Satay
-@recipe @main
+#+TITLE: Chicken Satay
+#+ROAM_TAGS: @recipe @main
 
 1. Option 1
 
-** Ingredients
+* Ingredients
 #+begin_example
   -   8-10 mini chicken fillets
   -   1/2 cup crunchy peanut butter
@@ -21,7 +21,7 @@
   -   dash hot chilli sauce
 #+end_example
 
-** Method
+* Method
 #+begin_example
   1.  cut the chicken into strips around 2-3 cm wide. place in a bowl and set aside.
   2.  in another bowl add all the satay sauce Ingredients and mix well. pour over the chicken, cover with film and marinate in the fridge. this is best done the night before or on themorning before cooking
@@ -31,7 +31,7 @@
 
 1. Option 2
 
-** Ingredients
+* Ingredients
 #+begin_example
   -   8-12 mini chicken fillets
   -   1/4cup minced lemongrass fresh or frozen
@@ -48,7 +48,7 @@
   -   2 tablespoon vegetable oil
 #+end_example
 
-** Method
+* Method
 #+begin_example
   1.  cut chicken into thin strips and place in a bowl
   2.  place all marinade Ingredients in a food processor and process well

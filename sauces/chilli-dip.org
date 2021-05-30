@@ -1,7 +1,7 @@
-* Chilli Dip
-@sauce @recipe
+#+TITLE: Chilli Dip
+#+ROAM_TAGS: @sauce @recipe
 
-** Ingredients
+* Ingredients
 
 - 1 small red onion very finely chopped
 - 1/4cucumber very finely chopped
@@ -10,7 +10,7 @@
 - 1/2teaspoon sugar
 - salt and freshly ground black pepper
 
-** Method
+* Method
 
 1. mix together the onion, cucumber, chilli, lime and lemon juice sugar and seasoning
 2. season to taste with salt and pepper

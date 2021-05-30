@@ -1,7 +1,7 @@
-* Apple and Cinnamon French Toast
-@recipe @dessert
+#+TITLE: Apple and Cinnamon French Toast
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 1 cooking apple
 - 2 eggs
@@ -13,7 +13,7 @@
 - 1 teaspoon demerara sugar
 - fromage frais
 
-** Method
+* Method
 
 1. peel the cooking apple and core. dice finely and place ina pan with 1 tablesppon of water. cover and cook gently until pulpy. allow to cool.
 2. place the eggs, milk, sugar, cinnamon, and cooking apple in a processor and blend until smooth

@@ -1,7 +1,7 @@
-* Teriyaki Salmon
-@recipe @main
+#+TITLE: Teriyaki Salmon
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 tablespoon terriyaki sauce
 - 2 tablespoon sweet chilli sauce
@@ -13,7 +13,7 @@
 - 2 tablespoon soy sauce
 - little sesame oil to serve
 
-** Method
+* Method
 
 1. mix terriyaki sauce, sweet chilli sauce, zest of lime, squeeze of lime juice in a large bowl add salmon fillets coat in marinade and leave for 15 mins
 2. heat veg oil in frying pan and cook for 4-5 mins each side until slightly blackened. set aside and keep warm

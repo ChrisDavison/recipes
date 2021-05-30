@@ -1,7 +1,7 @@
-* Buffalo Chicken Soup
-@recipe @soup
+#+TITLE: Buffalo Chicken Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 3 medium chicken thighs (deboned and sliced)
 - 1 tsp onion powder
@@ -15,7 +15,7 @@
 - 1/4 tsp xanthan gum
 - salt and pepper
 
-** Method
+* Method
 
 1. debone the thighs and drop into crockpot
 2. add all the Ingredients *except* cream, cheese, and xanthan gum.

@@ -1,7 +1,7 @@
-* Creamy Fruit Parfait
-@recipe @dessert
+#+TITLE: Creamy Fruit Parfait
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 225g fresh cherries
 - 2 large peaches
@@ -11,7 +11,7 @@
 - 2 tablespoons flower scented honey or to taste
 - fresh redcurrants or other berries to decorate (optional)
 
-** Method
+* Method
 
 1. cut cherries in half and remove stones.cut peaches and apricots in half lengthways and remove stones then chop the flesh of the fruit finely
 2. place the finely chopped fruit in a bowl and gently stir together

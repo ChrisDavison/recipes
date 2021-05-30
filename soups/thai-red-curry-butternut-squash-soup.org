@@ -1,9 +1,9 @@
-* Thai Red Curry Butternut Squash Soup
-@recipe @soup
+#+TITLE: Thai Red Curry Butternut Squash Soup
+#+ROAM_TAGS: @recipe @soup
 
 ~serves 4 ~1 hour
 
-** Ingredients
+* Ingredients
 
 - 2tsp Coconut oil
 - 2tbsp Thai red curry paste
@@ -16,7 +16,7 @@
 - 1.5l veg stock, hot
 - 1 lime, juiced
 
-** Method
+* Method
 
 1. Heat coconut oil in a large pan over a medium heat and add curry paste. Cook gently for 2-3 minutes.
 2. Add onion and salt, then cook for ~10 minutes

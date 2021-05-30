@@ -1,7 +1,7 @@
-* Pannetone Bread and Butter Pudding
-@recipe @dessert
+#+TITLE: Pannetone Bread and Butter Pudding
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 575ml semi skimmed milk
 - 575ml double cream
@@ -12,7 +12,7 @@
 - 1 orange zested
 - a little icing sugar
 
-** Method
+* Method
 
 1. cut the vanilla pod in half and bring milk and cream to the boil in a saucepan.
 2. scrape seeds from vanilla pod and add to milk with orange zest.

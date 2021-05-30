@@ -1,7 +1,7 @@
-* Chicken Dopiaza
-@recipe @main
+#+TITLE: Chicken Dopiaza
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 300ml oil
 - 4 medium onions finely chopped
@@ -20,7 +20,7 @@
 - fresh coriander leaves
 - green chilli strip to garnish if required
 
-** Method
+* Method
 
 1. heat the oil in a large skillet add the onion and fry until golden brown
 2. reduce the heat and add the ginger, garam masala, garlic, chilli powder, ground coriander, whole cardomoms and the pepper corns, stirring well to mix

@@ -1,7 +1,7 @@
-* White Chocolate Mousse
-@recipe @dessert
+#+TITLE: White Chocolate Mousse
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 Note:important to have ingredients at room temp to ensure texture is smooth.
 
 - 100G white chocolate buttons
@@ -12,7 +12,7 @@ Note:important to have ingredients at room temp to ensure texture is smooth.
 - 3 tablespoons passionfruit pulp
 - icing sugar to dust
 
-** Method
+* Method
 
 1. place the chocolate and milk in a small saucepan and stir over low heat until the chocolate has melted. Allow to cool.
 2. place 60ml boiling water in a small bowl, sprinkle evenly with gelatine and stir until dissolved.

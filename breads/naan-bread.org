@@ -1,7 +1,7 @@
-* Naan Bread
-@recipe @bread
+#+TITLE: Naan Bread
+#+ROAM_TAGS: @recipe @bread
 
-** Ingredients
+* Ingredients
 
 - 2 teaspoon sugar
 - 1teaspoon fresh yeast
@@ -12,7 +12,7 @@
 - 50g unsalted butter
 - 1 teaspoon poppy seed
 
-** Method
+* Method
 
 1. put sugar and yeast in a small bowl with warm water and mix well until dissolved. set aside for 10mins or until mix is frothy
 2. place the flour ina large mixing bowl, make a well in the middle of the flour. add the ghee and salt and pour in the yeast mixture. mix well to form a dough, using your hands. adding more water if required

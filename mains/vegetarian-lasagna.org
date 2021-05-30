@@ -1,7 +1,7 @@
-* Vegetarian Lasagna
-@recipe @main @vegetarian
+#+TITLE: Vegetarian Lasagna
+#+ROAM_TAGS: @recipe @main @vegetarian
 
-** Ingredients
+* Ingredients
 
 - 1 small aubergine, sliced and chopped
 - 300g mushrooms, roughly chopped
@@ -18,7 +18,7 @@
 - 85g lasagna sheets (or enough for 2 layers)
 - black pepper
 
-** Method
+* Method
 
 1. Preheat oven to 200C (Fan 180C)
 2. Place aubergine and mushrooms in a roasting tray. Drizzle with 2 tbsp oil to ensure veg are well coated. Roast for 45 min (till golden brown and soft)

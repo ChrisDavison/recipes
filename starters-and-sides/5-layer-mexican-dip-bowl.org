@@ -1,7 +1,7 @@
-* 5-layer Mexican Dip Bowl
-@starter @recipe
+#+TITLE: 5-layer Mexican Dip Bowl
+#+ROAM_TAGS: @starter @recipe
 
-** Ingredients
+* Ingredients
 
 - guacamole
 - 2 ripe avocados, peeled, pitted, and cut into chunks
@@ -20,7 +20,7 @@
 - 2 cups shredded cheddar cheese
 - cayenne pepper sauce (to taste)
 
-** Method
+* Method
 
 - In a medium bowl, mash together avocado, lime juice, cilantro, onion, tomato, garlic, and salt.
 - Cover the guac and refrigerate while you make the beef.

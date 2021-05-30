@@ -1,7 +1,7 @@
-* Citrus Pannacotta
-@recipe @dessert
+#+TITLE: Citrus Pannacotta
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 405g can carnation condensed milk light
 - 115ml (4fl oz) low fat crème fraîche
@@ -12,7 +12,7 @@
 - 2 oranges, segmented and cut into slivers
 - 2 passion fruits, halved
 
-** Method
+* Method
 
 1. place the condensed milk and crème fraîche in a mixing bowl and whisk together, gradually whisk in the zest and juice of the lemons, & orange juice
 2. prepare the gelatine according to pack instructions, allow to cool slightly then whisk briskly into the citrus mixture.

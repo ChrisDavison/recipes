@@ -1,7 +1,7 @@
-* Beef Rendang
-@recipe @main
+#+TITLE: Beef Rendang
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 lemongrass stalk, roughly chopped
 - 3/4oz coriander seeds
@@ -17,7 +17,7 @@
 - 14oz can coconut milk
 - 3/4fl oz strong veal or beef stock, heated
 
-** Method
+* Method
 
 1. for the beef rending, pound the lemongrass to a pulp using a pestle and mortar. tip the lemongrass into a small bowl.
 2. heat the frying pan over a medium heat. add the coriander, cumin seeds and turmeric and dry fry until fragrant. tip the spices into a spice grinder or the pestle and mortar. grind the spices to a powder if using a grinder, or pound in a pestle and mortar until the spices are as smooth as possible. set aside.

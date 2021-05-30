@@ -1,7 +1,7 @@
-* Gochujang Glaze
-@sauce @recipe
+#+TITLE: Gochujang Glaze
+#+ROAM_TAGS: @sauce @recipe
 
-** Ingredients
+* Ingredients
 
 - 1 tbsp gochujang
 - 2 tsp mirin
@@ -11,6 +11,6 @@
 - 1 small clove garlic, minced
 - 1/2 tsp fresh ginger
 
-** Method
+* Method
 
 - MIX

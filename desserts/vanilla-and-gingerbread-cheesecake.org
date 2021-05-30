@@ -1,7 +1,7 @@
-* Vanilla and Gingerbread Cheesecake
-@recipe @dessert
+#+TITLE: Vanilla and Gingerbread Cheesecake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 50g(2ozs)gingerbread sliced
 - 450g(1lb)cream cheese
@@ -13,7 +13,7 @@
 - 2 teaspoon caster sugar
 - 2 teaspoon balsamic vinegar
 
-** Method
+* Method
 
 1.  place the gingerbread onto a tray and leave out overnight to dry
 2.  when dry and hard place in food processor and pulse to fine crumbs

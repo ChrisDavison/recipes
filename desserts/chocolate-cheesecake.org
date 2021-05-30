@@ -1,7 +1,7 @@
-* Chocolate Cheesecake
-@recipe @dessert
+#+TITLE: Chocolate Cheesecake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 1 x 400g packet chocolate digestives, crushed to fine crumbs
 - 75g butter, melted and cooled slightly
@@ -12,7 +12,7 @@
 - 1 teaspoon vegetable oil
 - 100gwhite chocolate
 
-** Method
+* Method
 
 1. mix the crushed biscuits and butter in a bowl until well combined. spoon into a 9" springform tin and press down hard till flat and even
 2. mix the cream cheese and icing sugar together

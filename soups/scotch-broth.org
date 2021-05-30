@@ -1,7 +1,7 @@
-* Scotch Broth
-@recipe @soup
+#+TITLE: Scotch Broth
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 450g mutton or lamb shank
 - 2.2 litres water
@@ -16,7 +16,7 @@
 - 2 sticks celery sliced
 - 1 tablespoon chopped parsley
 
-** Method
+* Method
 
 1. put meat in a large pan with water,salt,barley and peas. bring slowly to the boil and skim off any foam as it appears
 2. add all the remaining vegetables and bring to simmering

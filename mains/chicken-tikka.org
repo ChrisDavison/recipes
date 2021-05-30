@@ -1,7 +1,7 @@
-* Chicken Tikka
-@recipe @main
+#+TITLE: Chicken Tikka
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 teaspoon finely chopped fresh ginger
 - 1 teaspoon fresh garlic crushed
@@ -17,7 +17,7 @@
 - 1 onion sliced
 - 3 tablespoons oil
 
-** Method
+* Method
 
 1. blend the ginger, garlic, ground coriander, ground cumin and chilli powder in a large mixing bowl
 2. add the yogurt, salt, lemon juice, red food coluring and tomato puree

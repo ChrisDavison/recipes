@@ -1,7 +1,7 @@
-* Moist Carrot Cake
-@recipe @dessert
+#+TITLE: Moist Carrot Cake
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 2 cups flour
 - 2 cups brown sugar
@@ -20,7 +20,7 @@
 - 2 teaspoon clear honey
 - 1 teaspoon lemon juice
 
-** Method
+* Method
 
 1. mix all the dry Ingredients together in a bowl.
 2. add cup of oil and beaten eggs

@@ -1,7 +1,7 @@
-* Thai-style Burgers
-@recipe @main
+#+TITLE: Thai-style Burgers
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1 small lemon grass stalk
 - 1 small red chilli deseeded
@@ -18,7 +18,7 @@
 - 4 sesame hamburger buns
 - shredded chinese leaves
 
-** Method
+* Method
 
 1. place the lemon grass, chilli and spring onions in a food processor and process to a smooth paste. add the mushrooms and process until very finely chopped
 2. add the minced pork, fish sauce and coriander.season well with salt and pepper, then divide the mixture into 4 equal portions and shape with lightly floured hands into flat burger shapes

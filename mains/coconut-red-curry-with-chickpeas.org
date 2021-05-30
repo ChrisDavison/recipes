@@ -1,9 +1,9 @@
-* Coconut Red Curry with Chickpeas
-@recipe @main
+#+TITLE: Coconut Red Curry with Chickpeas
+#+ROAM_TAGS: @recipe @main
 
 Makes 4 servings. Store 3/4 days, or freeze for about 1 month.
 
-** Ingredients
+* Ingredients
 
 - 1 tbsp coconut oil
 - 2 tbsp minced ginger
@@ -21,7 +21,7 @@ Makes 4 servings. Store 3/4 days, or freeze for about 1 month.
 
 fresh coriander/basil for serving
 
-** Method
+* Method
 
 1. Heat a large pot over medium heat. Add coconut oil, ginger, garlic, and shallot. Saute for 2-3 minutes, or until slightly softened.
 2. Add dried chilli and red curry paste. Stir to combine and cook for 1 min.

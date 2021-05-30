@@ -1,5 +1,5 @@
-* Chinese Glaze
-@starter @recipe @sauce @marinade
+#+TITLE: Chinese Glaze
+#+ROAM_TAGS: @starter @recipe @sauce @marinade
 
 - 150ml clear honey
 - 1 tablespoon five spice

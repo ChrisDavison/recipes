@@ -1,7 +1,7 @@
-* Crunchy Peanut Balls
-@recipe @dessert
+#+TITLE: Crunchy Peanut Balls
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 2oz butter
 - 6oz peanut butter
@@ -9,7 +9,7 @@
 - 2 cups crushed cornflakes
 - chocolate to coat
 
-** Method
+* Method
 
 1. peel the cooking apple and core. dice finely and place in a pan with melted butter and mix in peanut butter
 2. add the icing sugar and crushed cornflakes and mix well

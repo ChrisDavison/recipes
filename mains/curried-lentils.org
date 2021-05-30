@@ -1,7 +1,7 @@
-* Curried Lentils
-@recipe @main
+#+TITLE: Curried Lentils
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 1tbsp olive oil
 - 2 cloves garlic
@@ -13,7 +13,7 @@
 - salt to taste
 - 1/2 bunch fresh coriander
 
-** Method
+* Method
 
 - Bring 3 cups of water to boil and add lentils. Allow the pot to boil, then turn the heat to low and simmer (lid on) for 20 minutes (or until lentils tender)
 - Drain lentils

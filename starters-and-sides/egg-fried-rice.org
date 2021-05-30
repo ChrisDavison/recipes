@@ -1,7 +1,7 @@
-* Egg-fried Rice
-@starter @recipe @side
+#+TITLE: Egg-fried Rice
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 3 eggs
 - 1teaspoon salt
@@ -10,7 +10,7 @@
 - 500g cooked rice well drained and cooled
 - 125g cooked peas
 
-** Method
+* Method
 
 1. lightly beat the eggs with a pinch of salt and 1 tablespoon of the spring onion
 2. heat the oil in a preheated wok, add the eggs and stir until lightly scrambled(the eggs should only be cooked until they start to set so they are still moist

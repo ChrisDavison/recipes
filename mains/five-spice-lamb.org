@@ -1,7 +1,7 @@
-* Five-Spice Lamb
-@recipe @main
+#+TITLE: Five-Spice Lamb
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 625g lamb
 - 2 teaspoon chinese 5 spice powder
@@ -17,7 +17,7 @@
 - chinese noodles to serve
 - strips of red and yellow pepper and fresh coriander to garnish
 
-** Method
+* Method
 
 1. cut the lamb into narrow strips and place in a bowl. add the 5 spice powderand 1/4teaspoon salt. mix well and leave to marinate for a t least 1 hour or overnight covered
 2. heat half the oil in a wok. add the lamb and stir fry briskly for 3-4 mins until almost cooked. remove from the pan.

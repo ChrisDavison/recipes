@@ -1,7 +1,7 @@
-* Minestrone Soup
-@recipe @soup
+#+TITLE: Minestrone Soup
+#+ROAM_TAGS: @recipe @soup
 
-** Ingredients
+* Ingredients
 
 - 2 tablespoon olive oil
 - 1-2 cloves garlic
@@ -19,7 +19,7 @@
 - chopped parsley and basil
 - fresh ground pepper
 
-** Method
+* Method
 
 1. saute garlic and onion
 2. add potatoes celery carrots and stir for a few minutes

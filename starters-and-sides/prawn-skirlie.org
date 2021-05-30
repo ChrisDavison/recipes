@@ -1,7 +1,7 @@
-* Prawn Skirlie
-@starter @recipe @side
+#+TITLE: Prawn Skirlie
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 125g prawns
 - 225g pinhead oatmeal
@@ -11,7 +11,7 @@
 - 2 tablespoon water
 - 1 red onion
 
-** Method
+* Method
 
 1. finely chop the cabbage, red pepper and red onion
 2. soak the oatmeal in a dish with the water

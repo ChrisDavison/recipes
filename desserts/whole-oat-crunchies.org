@@ -1,16 +1,16 @@
-* Whole-oat Crunchies
-@recipe @dessert
+#+TITLE: Whole-oat Crunchies
+#+ROAM_TAGS: @recipe @dessert
 
 If cut into 12, 124cal per serving If cut into 8, 186cal per serving
 
-** Ingredients
+* Ingredients
 
 - 50g Jumbo oats
 - 60g porridge oats
 - 75g demerara sugar
 - 110g butter (block)
 
-** Method
+* Method
 
 1. Preheat oven to 190
 2. Mix the oats and sugar, as evenly as possible

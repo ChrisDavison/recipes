@@ -1,7 +1,7 @@
-* Sweet and Sour Pork
-@recipe @main
+#+TITLE: Sweet and Sour Pork
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 250-300g of lean pork
 - 2 teaspoon brandy or whiskey
@@ -23,7 +23,7 @@
 - 3-4 tablespoon chicken stock
 - 1 tablespoon cornflour into paste
 
-** Method
+* Method
 
 1. cut the pork into small bite sized cubes and place in a dish with the salt, pepper and brandy and leave to marinate for 15-20 mins
 2. heat oil in wok. place the pork in a bowl with the beaten egg and coat. sprinkle on the flour and turn the pork until well coated

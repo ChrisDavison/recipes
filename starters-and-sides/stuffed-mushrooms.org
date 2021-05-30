@@ -1,7 +1,7 @@
-* Stuffed Mushrooms
-@starter @recipe @side
+#+TITLE: Stuffed Mushrooms
+#+ROAM_TAGS: @starter @recipe @side
 
-** Ingredients
+* Ingredients
 
 - large open cap mushrooms
 - 4 spring onions chopped
@@ -10,7 +10,7 @@
 - 1 teaspoon fresh oregano chopped
 - 100g mature cheddar cheese
 
-** Method
+* Method
 
 1. wash mushrooms and pat dry with kitchen paper.remove the stalks and chop finely
 2. saute the stalks and spring onions in half of the oil

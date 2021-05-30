@@ -1,7 +1,7 @@
-* Mango Mousse
-@recipe @dessert
+#+TITLE: Mango Mousse
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 400g can mangoes in syrup
 - 2 pieces stem ginger chopped
@@ -12,7 +12,7 @@
 - 11/2tablespoon light brown sugar
 - stem ginger and lime zest to decorate
 
-** Method
+* Method
 
 1. drain the mangoes, reserving the syrup, blend the mangoes and ginger in a food processor for 30 secs or until smooth
 2. measure the puree and make up to 300ml with the reserved syrup

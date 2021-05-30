@@ -1,7 +1,7 @@
-* Kung-Po Chicken
-@recipe @main
+#+TITLE: Kung-Po Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 250-300g chicken breast
 - 1/2 teaspoon salt
@@ -18,7 +18,7 @@
 - few drops of sesame oil or to taste
 - boiled rice to serve
 
-** Method
+* Method
 
 1. cut the chicken into small cubes about the size of sugar cubes. place in a small bowl and mix with a pinch of salt, the egg white and cornflour paste in that order
 2. cut the green pepper into cubes and triangles about the same size as the chicken pieces

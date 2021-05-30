@@ -1,7 +1,7 @@
-* Ras-el-hanout Lamb
-@recipe @main
+#+TITLE: Ras-el-hanout Lamb
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 2 tablespoon of olive oil
 - 500g (1lb) lean lamb cut into bite sized chunks
@@ -13,7 +13,7 @@
 - 1 pint of vegetable stock
 - salt and black pepper
 
-** Method
+* Method
 
 1. add the oil to a large pan or deep frying pan and fry the onions and
 2. garlic until brown. set aside fry off the lamb until coloured, add the onions and garlic back into the pan

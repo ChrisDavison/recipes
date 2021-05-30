@@ -1,7 +1,7 @@
-* Hummus
-@recipe @side
+#+TITLE: Hummus
+#+ROAM_TAGS: @recipe @side
 
-** Ingredients
+* Ingredients
 
 - 200g dried chickpeas
 - 2 large garlic cloves
@@ -14,7 +14,7 @@
 - paprika
 - fresh coriander
 
-** Method
+* Method
 
 1. place the chickpeas in a large bowl.pour in at least twice the volume of cold water to beans and leave to stand for at least 12 hours until they double in size
 2. drain the chickpeas.put them in a large saucepan and add twice the volume of water to beans.bring to boil and boil hard for 10 minutes skimming the surface of the liquid

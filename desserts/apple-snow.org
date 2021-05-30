@@ -1,7 +1,7 @@
-* Apple Snow
-@recipe @dessert
+#+TITLE: Apple Snow
+#+ROAM_TAGS: @recipe @dessert
 
-** Ingredients
+* Ingredients
 
 - 450g granny smith apples peeled cored and chopped
 - zest and juice of 1 lemon
@@ -9,7 +9,7 @@
 - 2 medium eggs separated
 - 25g dark chocolate grated
 
-** Method
+* Method
 
 1. place the apples with the lemon zest and juice, sugar and 2 tablespoons of water in a saucepan and cook covered over a low heat for 5 minutes or until the fruit is pulpy
 2. combine the apples with the egg yolks in a bowl then set aside to cool

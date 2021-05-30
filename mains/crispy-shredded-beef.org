@@ -1,7 +1,7 @@
-* Crispy Shredded Beef
-@recipe @main
+#+TITLE: Crispy Shredded Beef
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 350g beef steak
 - 2 eggs
@@ -18,7 +18,7 @@
 - 2-3 tablespoon chinese stock or water
 - teaspoon cornflour paste
 
-** Method
+* Method
 
 1. cut the steak across the grain into thin strips. beat the eggs in a bowl with the salt and flour, adding a little water as necessary. add the beef strips and mix well until coated with the batter
 2. heat the oil ina preheated wok until smoking. add the beef strips and deep fry for 4-5 mins, stirring to separate the shreds. remove with a slotted spoon and drain on paper towel.

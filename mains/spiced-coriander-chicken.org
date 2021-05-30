@@ -1,7 +1,7 @@
-* Spiced Coriander Chicken
-@recipe @main
+#+TITLE: Spiced Coriander Chicken
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 chicken breasts
 - 2 garlic cloves-peeled
@@ -16,7 +16,7 @@
 - rice of choice to serve (try jaimie olivers lemon rice!!)
 - sliced cucumber and radish and grated carrot to garnish
 
-** Method
+* Method
 
 1. using a sharp knife cut deep slashes into each chicken breast and place in a wide dish
 2. put garlic chilli, ginger, coriander,lime rind and juice,soy sauce,caster sugar and coconut milk in food processor and process to a smooth puree

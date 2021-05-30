@@ -1,7 +1,7 @@
-* Apple Barrel Pate
-@sauce @recipe
+#+TITLE: Apple Barrel Pate
+#+ROAM_TAGS: @sauce @recipe
 
-** Ingredients
+* Ingredients
 
 - 25g butter
 - 1 gala apple, peeled, cored and grated

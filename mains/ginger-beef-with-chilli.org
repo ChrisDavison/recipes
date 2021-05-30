@@ -1,7 +1,7 @@
-* Ginger Beef with Chilli
-@recipe @main
+#+TITLE: Ginger Beef with Chilli
+#+ROAM_TAGS: @recipe @main
 
-** Ingredients
+* Ingredients
 
 - 4 lean beef steaks-rump sirloin or fillet
 - 2 tablespoons ginger wine
@@ -23,7 +23,7 @@
 - 2 tablespoons light soy sauce
 - 1 piece stem ginger in syrup drained and chopped
 
-** Method
+* Method
 
 1. using a meat mallet pound steaks until 1 cm thick.season on both sides and place in a shallow dish
 2. mix ginger wine, root ginger, garlic and chilli and pour over the meat. cover and chill for 30 mins
