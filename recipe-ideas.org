@@ -1,3 +1,4 @@
+
 * Vegetarian recipe ideas
   :PROPERTIES:
   :CUSTOM_ID: vegetarian-recipe-ideas
