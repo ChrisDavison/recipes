@@ -1,5 +1,7 @@
 #+TITLE: Cycling Rice Cakes
 
+Makes 20 squares of =170kcal, 22g carb, 1.2g protein, 8.4g fat=
+
 * Ingredients
 
 - 500g short-grain rice
@@ -17,4 +19,3 @@
 - once cool, refrigerate overnight
 - slice bag open, and cut into ~20 squares
 
-Per square: 170kcal, 22g carb, 1.2g protein, 8.4g fat
