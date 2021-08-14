@@ -1,7 +1,0 @@
-#+TITLE: Chilli and Honey Marinade
-#+ROAM_TAGS: @starter @recipe @sauce @marinade
-
-- 125ml lemon juice
-- 170g honey
-- 1 clove gaarlic crushed
-- pinch chilli powder
