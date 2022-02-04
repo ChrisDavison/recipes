@@ -1,8 +1,6 @@
----
-title: White Chocolate Dream
----
+# White Chocolate Dream
 
-## Ingredients
+Ingredients
 
 -   1 ready made sweet pastry case
 -   175g white chocolate broken into pieces
@@ -16,10 +14,14 @@ title: White Chocolate Dream
 
 ## method
 
-1.  melt 150g of the chocolate in a heatproof bowl over a pan of simmering water making sure the bowl does not touch the water. remove from the heat
-2.  with a pastry brush paint a very thin layer of chocolate over the inside of the pastry case and set aside until firm
-3.  return the bowl and pan to the heat and add half the mascarpone to the melted chocolate.
+1.  melt 150g of the chocolate in a heatproof bowl over a pan of simmering water
+    making sure the bowl does not touch the water. remove from the heat
+2.  with a pastry brush paint a very thin layer of chocolate over the inside of
+    the pastry case and set aside until firm
+3.  return the bowl and pan to the heat and add half the mascarpone to the
+    melted chocolate.
 4.  stir until smooth then leave to cool slightly
 5.  whisk in the remaining mascarpone and fold in the elmlea
 6.  pour into the pastry case and chill for 2-3 hours until set
-7.  grate the remaining chocolate over the top of the tart,dust with icing sugar and serve with some redcurrants for decoration
+7.  grate the remaining chocolate over the top of the tart,dust with icing sugar
+    and serve with some redcurrants for decoration

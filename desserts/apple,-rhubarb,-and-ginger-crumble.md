@@ -1,8 +1,6 @@
----
-title: Apple, Rhubarb, and Ginger Crumble
----
+# Apple, Rhubarb, and Ginger Crumble
 
-## Ingredients
+Ingredients
 
 -   apples
 -   rhubarb
@@ -14,7 +12,9 @@ title: Apple, Rhubarb, and Ginger Crumble
 -   ground cinnamon
 -   icing sugar
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  stew the fruit with stem ginger pieces finely chopped
 2.  add ginger syrup to fruit and place in oven proof dish

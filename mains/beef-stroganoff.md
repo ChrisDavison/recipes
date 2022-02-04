@@ -1,8 +1,6 @@
----
-title: Beef Stroganoff
----
+# Beef Stroganoff
 
-## Ingredients
+Ingredients
 
 -   6 tablespoon butter
 -   1 ib beef cut into thin strips
@@ -14,7 +12,9 @@ title: Beef Stroganoff
 -   1/2teaspoon dry tarragon
 -   tub sour cream
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  melt butter in a pan add beef and brown
 2.  add some salt and pepper

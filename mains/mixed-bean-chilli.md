@@ -1,12 +1,11 @@
----
-title: Mixed Bean Chilli
----
+# Mixed Bean Chilli
 
 About 5 portions of 330 cal, 51g carbs, 21g protein, 2g fat
 
-## Ingredients
+Ingredients
 
-<u>The recipe said dried beans, but I use tinned (in water). When I redo this, use much less water (1l?) and make it spicier.</u>
+`<u>`{=html}The recipe said dried beans, but I use tinned (in water). When I
+redo this, use much less water (1l?) and make it spicier.`</u>`{=html}
 
 -   2 litres water
 -   6-7 medium onions
@@ -22,8 +21,11 @@ About 5 portions of 330 cal, 51g carbs, 21g protein, 2g fat
 -   1 tsp ground cumin
 -   1 tsp mixed herbs
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  Chop or dice the onions
 2.  Shove everything in pressure cooker
-3.  Cook on high pressure for 40 minutes a. Including pressurising will take about 1h20
+3.  Cook on high pressure for 40 minutes a. Including pressurising will take
+    about 1h20

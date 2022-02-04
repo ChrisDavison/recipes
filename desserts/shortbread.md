@@ -1,14 +1,14 @@
----
-title: Shortbread
----
+# Shortbread
 
-## Ingredients
+Ingredients
 
 -   150g plain flour, plus extra for dusting
 -   100g butter (chilled and cubed)
 -   50g caster sugar, plus 1tbsp for sprinkling
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  Heat oven to 170C.
 2.  Mix ingredients till it looks like breadcrumps, then squeeze into a dough.

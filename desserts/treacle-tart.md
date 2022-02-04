@@ -1,8 +1,6 @@
----
-title: Treacle Tart
----
+# Treacle Tart
 
-## Ingredients
+Ingredients
 
 -   225g golden syrup
 -   1 level tablespoon black treacle
@@ -18,5 +16,7 @@ title: Treacle Tart
 2.  stir, then add the lemon zest and juice
 3.  stir in the breadcrumbs
 4.  add the beaten egg yolk then stir well
-5.  stir in the cream then, once everything is fully combined, tip into the pastry case and bake at 170c for about 25 minutes or until there is a slight wobble in the centre
+5.  stir in the cream then, once everything is fully combined, tip into the
+    pastry case and bake at 170c for about 25 minutes or until there is a slight
+    wobble in the centre
 6.  leave to cool before cutting

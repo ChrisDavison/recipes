@@ -1,8 +1,6 @@
----
-title: 5-layer Mexican Dip Bowl
----
+# 5-layer Mexican Dip Bowl
 
-## Ingredients
+Ingredients
 
 -   guacamole
 -   2 ripe avocados, peeled, pitted, and cut into chunks
@@ -21,12 +19,18 @@ title: 5-layer Mexican Dip Bowl
 -   2 cups shredded cheddar cheese
 -   cayenne pepper sauce (to taste)
 
-## Method
+--------------------------------------------------------------------------------
 
--   In a medium bowl, mash together avocado, lime juice, cilantro, onion, tomato, garlic, and salt.
+Method
+
+-   In a medium bowl, mash together avocado, lime juice, cilantro, onion,
+    tomato, garlic, and salt.
 -   Cover the guac and refrigerate while you make the beef.
--   In a medium skillet, cook the ground beef over medium heat until it's crumbled, about 10 minutes.
--   Stir in the water and taco seasoning. reduce the heat to a simmer and cook for 10 minutes.
+-   In a medium skillet, cook the ground beef over medium heat until it's
+    crumbled, about 10 minutes.
+-   Stir in the water and taco seasoning. reduce the heat to a simmer and cook
+    for 10 minutes.
 -   Transfer the meat to four small bowls (or two large bowls for two servings).
--   Top with sour cream, then the guacamole, then the lettuce, then the cheddar cheese.
+-   Top with sour cream, then the guacamole, then the lettuce, then the cheddar
+    cheese.
 -   drizzle the cayenne pepper over the top to your liking.

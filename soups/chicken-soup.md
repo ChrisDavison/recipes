@@ -1,8 +1,6 @@
----
-title: Chicken Soup
----
+# Chicken Soup
 
-## Ingredients
+Ingredients
 
 -   3 smoked streaky rindless bacon slices chopped
 -   2 tablespoon butter
@@ -16,11 +14,15 @@ title: Chicken Soup
 -   salt & pepper
 -   soda bread to serve
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  fry the bacon and chicken gently in a large saucepan for 10 mins
-2.  add the butter,poatatoes and onions and cook for 15mins stirring all the time
+2.  add the butter,poatatoes and onions and cook for 15mins stirring all the
+    time
 3.  add the stock and milk, bring to the boil and simmer for 45 mins
 4.  season with salt and pepper to taste
 5.  blend in the cream and simmermfor 5 mins. stir in the chopped parsley
-6.  serve in individual bowls with warm soda bread starters with that added slurp effect!!!
+6.  serve in individual bowls with warm soda bread starters with that added
+    slurp effect!!!

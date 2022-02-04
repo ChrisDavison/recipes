@@ -1,6 +1,4 @@
----
-title: Chilli and Honey Marinade
----
+# Chilli and Honey Marinade
 
 -   125ml lemon juice
 -   170g honey

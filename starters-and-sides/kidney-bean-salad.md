@@ -1,8 +1,6 @@
----
-title: Kidney-bean Salad
----
+# Kidney-bean Salad
 
-## Ingredients
+Ingredients
 
 -   1 can kidney beans
 -   1 can sweetcorn
@@ -21,7 +19,9 @@ Dressing
 -   1/2tsp oregano
 -   salt and pepper to taste
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   Rinse and drain corn and kidney beans.
 -   Dice cucumber. Slice coriander

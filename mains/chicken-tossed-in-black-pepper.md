@@ -1,8 +1,6 @@
----
-title: Chicken Tossed in Black Pepper
----
+# Chicken Tossed in Black Pepper
 
-## Ingredients
+Ingredients
 
 -   8 chicken whatevers
 -   1 teaspoon fresh ginger root finely chopped
@@ -22,12 +20,19 @@ title: Chicken Tossed in Black Pepper
 -   1 tablespoon lemon juice
 -   fresh coriander leaves to garnish
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  combine the ginger, garlic, salt and coarsly ground black pepper together in a mixing bowl
+Method
+
+1.  combine the ginger, garlic, salt and coarsly ground black pepper together in
+    a mixing bowl
 2.  add the chicken pieces to the mixture coat and set aside
 3.  heat the oil in a large pan, add the chicken and fry for 10 mins
-4.  reduce the heat and add the green pepper and the water to the pan. leave the mixture to simmer for 10 mins then sprinkle over the lemon juice
-5.  meanwhile make the fried corn and peas.melt the butter in a large frying pan.add the frozen sweetcorn and peas and stir fry stirring occasionally for 10 mins. add the salt and chilli powder and fry for a further 5 mins.
+4.  reduce the heat and add the green pepper and the water to the pan. leave the
+    mixture to simmer for 10 mins then sprinkle over the lemon juice
+5.  meanwhile make the fried corn and peas.melt the butter in a large frying
+    pan.add the frozen sweetcorn and peas and stir fry stirring occasionally for
+    10 mins. add the salt and chilli powder and fry for a further 5 mins.
 6.  sprinkle over the lemon juice and garnish with fresh coriander leaves
-7.  transfer the chicken and pepper mixture to warm serving plates and serve with the fried corn and peas
+7.  transfer the chicken and pepper mixture to warm serving plates and serve
+    with the fried corn and peas

@@ -1,8 +1,6 @@
----
-title: Gochujang Glaze
----
+# Gochujang Glaze
 
-## Ingredients
+Ingredients
 
 -   1 tbsp gochujang
 -   2 tsp mirin
@@ -12,6 +10,8 @@ title: Gochujang Glaze
 -   1 small clove garlic, minced
 -   1/2 tsp fresh ginger
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   MIX

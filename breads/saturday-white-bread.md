@@ -1,20 +1,22 @@
----
-title: Saturday White Bread
----
+# Saturday White Bread
 
-From *flour, water, salt, yeast*
+> From *flour, water, salt, yeast*
 
-## Ingredients (for \~1lb loaf)
+Ingredients (for \~1lb loaf)
 
 -   500g plain flour
 -   11g salt (2tsp)
 -   2g dried yeast (1/2tsp)
 -   360g water (32-35C)
 
-## Method
+--------------------------------------------------------------------------------
 
--   **autolyse**. mix both flours, then add the warm water. and mix till combined. Wait 20-30 min
--   **mix.** add salt and yeast. mix dough (pincer method, fold, rest, pincer method, fold, rest)
+Method
+
+-   **autolyse**. mix both flours, then add the warm water. and mix till
+    combined. Wait 20-30 min
+-   **mix.** add salt and yeast. mix dough (pincer method, fold, rest, pincer
+    method, fold, rest)
 -   **fold 1,** 10 minutes after mixing
 -   **fold 2,** 1 hour after fold 1
 -   **shape,** 5 hours after mixing

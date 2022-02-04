@@ -1,14 +1,14 @@
----
-title: Whiskey Sauce
----
+# Whiskey Sauce
 
-## Ingredients
+Ingredients
 
 -   30ml scotch whisky
 -   150ml double cream
 -   salt & pepper to taste
 
-1.  method
+--------------------------------------------------------------------------------
+
+Method
 
 -   to a heated pan add the whisky and burn off the alcohol
 -   add the double cream bring to the boil and reduce to a simmer

@@ -1,8 +1,6 @@
----
-title: Strawberry and White Chocolate Cheesecake
----
+# Strawberry and White Chocolate Cheesecake
 
-## Ingredients
+Ingredients
 
 -   175g shortbread biscuits
 
@@ -32,12 +30,27 @@ title: Strawberry and White Chocolate Cheesecake
 
 -   10 mint leaves, torn into fine strips
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  place the shortbread biscuits into a large bowl and using the end of a rolling pin, bash them until they resemble breadcrumbs. add the melted butter, chopped ginger and lemon zest and mix together.
-2.  place the mixture into a 20cm spring form cake tin and press firmly into the base. put into the fridge to set for around 30 minutes.
-3.  melt the white chocolate in a heat proof bowl over a pan of boiling water, then allow the chocolate to cool slightly.
-4.  meanwhile beat together the cream cheese, fromage frais and vanilla seeds until smooth and thick. add the strawberries to the cheese mixture along with the melted white chocolate and mix gently.
-5.  spoon the filling onto the set biscuit case, level the top and chill for a minimum of 4 hours until set.
-6.  if you want to make your own coulis, simply pop 10 strawberries into a pan along with 1 tbsp caster sugar and 1 tbsp water and heat gently until the natural juices are released, this should only take a couple of minutes, then blend the mix until smooth, pass through a sieve and its ready to use. you can serve this coulis hot or cold, if serving hot just warm gently in a pan after sieving.
-7.  to serve, cut a generous wedge and garnish with strawberries, a drizzle of coulis and fine strips of fresh mint leaves
+Method
+
+1.  place the shortbread biscuits into a large bowl and using the end of a
+    rolling pin, bash them until they resemble breadcrumbs. add the melted
+    butter, chopped ginger and lemon zest and mix together.
+2.  place the mixture into a 20cm spring form cake tin and press firmly into the
+    base. put into the fridge to set for around 30 minutes.
+3.  melt the white chocolate in a heat proof bowl over a pan of boiling water,
+    then allow the chocolate to cool slightly.
+4.  meanwhile beat together the cream cheese, fromage frais and vanilla seeds
+    until smooth and thick. add the strawberries to the cheese mixture along
+    with the melted white chocolate and mix gently.
+5.  spoon the filling onto the set biscuit case, level the top and chill for a
+    minimum of 4 hours until set.
+6.  if you want to make your own coulis, simply pop 10 strawberries into a pan
+    along with 1 tbsp caster sugar and 1 tbsp water and heat gently until the
+    natural juices are released, this should only take a couple of minutes, then
+    blend the mix until smooth, pass through a sieve and its ready to use. you
+    can serve this coulis hot or cold, if serving hot just warm gently in a pan
+    after sieving.
+7.  to serve, cut a generous wedge and garnish with strawberries, a drizzle of
+    coulis and fine strips of fresh mint leaves

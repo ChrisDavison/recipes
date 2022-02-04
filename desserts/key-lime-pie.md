@@ -1,8 +1,6 @@
----
-title: Key-Lime Pie
----
+# Key-Lime Pie
 
-## Ingredients
+Ingredients
 
 -   80g butter
 -   225g ginger nut biscuits crushed
@@ -12,9 +10,13 @@ title: Key-Lime Pie
 -   85g dark chocolate(70% cocoa)
 -   green food colouring
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  melt the butter in a pan and add the biscuit crumbs. press into base and sides of a 9" loose bottomed cake tin. put in fridge to chill
-2.  whisk condensed milk, lime juice and zest and double cream together until thick and creamy. add few drops green food colouring and mix
+Method
+
+1.  melt the butter in a pan and add the biscuit crumbs. press into base and
+    sides of a 9" loose bottomed cake tin. put in fridge to chill
+2.  whisk condensed milk, lime juice and zest and double cream together until
+    thick and creamy. add few drops green food colouring and mix
 3.  spoon over biscuit base and chill in fridge for at least an hour
 4.  melt chocolate and drizzle over in pattern

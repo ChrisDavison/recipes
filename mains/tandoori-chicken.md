@@ -1,8 +1,6 @@
----
-title: Tandoori Chicken
----
+# Tandoori Chicken
 
-## Ingredients
+Ingredients
 
 -   2 x whole chicken
 -   skin removed, jointed
@@ -24,12 +22,21 @@ title: Tandoori Chicken
 -   serve
 -   lime wedges to serve
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  make deep incisions into the chicken breasts, thighs and drumsticks.
-2.  whisk the yoghurt in the large bowl, add the remaining marinade Ingredients and mix until well combined.
-3.  rub the marinade over the chicken until it is completely coated, then chill in the fridge for 3-4 hours
+2.  whisk the yoghurt in the large bowl, add the remaining marinade Ingredients
+    and mix until well combined.
+3.  rub the marinade over the chicken until it is completely coated, then chill
+    in the fridge for 3-4 hours
 4.  preheat the oven to 200c
-5.  place the chicken onto the rack above a roasting tray and cook in the oven for 15-20 minutes (or on a charcoal grill for about 12 15 minute until cooked).
+5.  place the chicken onto the rack above a roasting tray and cook in the oven
+    for 15-20 minutes (or on a charcoal grill for about 12 15 minute until
+    cooked).
 6.  preheat the grill to high.
-7.  remove the chicken from the oven and rest for 2-3 minutes. baste thoroughly with butter and roast under the grill for 3-4 minutes, or until the juices run clear when the chicken is pierced with a skewer and it is completely cooked through.
+7.  remove the chicken from the oven and rest for 2-3 minutes. baste thoroughly
+    with butter and roast under the grill for 3-4 minutes, or until the juices
+    run clear when the chicken is pierced with a skewer and it is completely
+    cooked through.

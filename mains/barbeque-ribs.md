@@ -1,8 +1,6 @@
----
-title: Barbeque Ribs
----
+# Barbeque Ribs
 
-## Ingredients for *Maple glaze sauce*
+Ingredients for *Maple glaze sauce*
 
 -   150ml maple syrup
 -   1/4 teaspoon cayenne pepper
@@ -13,7 +11,7 @@ title: Barbeque Ribs
 -   1 tablespoon dijon mustard
 -   2 tablespoon lemon juice
 
-1.  Ingredients for *Chinese glaze sauce*
+Ingredients for *Chinese glaze sauce*
 
 -   150ml clear honey
 -   1 tablespoon five spice
@@ -24,12 +22,11 @@ title: Barbeque Ribs
 -   2 tablespoon chinese plum sauce
 -   2 tablespoon dry sherry
 
-1.  Method
+--------------------------------------------------------------------------------
 
-2.  cook a quantity of ribs in the oven until tender
+Method
 
-3.  cover the ribs in your preferred glaze
-
-4.  cook on barbeque over medium coals
-
-5.  re-coat with glaze during barbeque time
+1.  cook a quantity of ribs in the oven until tender
+2.  cover the ribs in your preferred glaze
+3.  cook on barbeque over medium coals
+4.  re-coat with glaze during barbeque time

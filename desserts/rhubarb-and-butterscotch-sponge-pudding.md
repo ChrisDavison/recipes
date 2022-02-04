@@ -1,8 +1,6 @@
----
-title: Rhubarb and Butterscotch Sponge Pudding
----
+# Rhubarb and Butterscotch Sponge Pudding
 
-## Ingredients
+Ingredients
 
 -   for the sponge:
 -   4 oz butter or margarine
@@ -15,7 +13,9 @@ title: Rhubarb and Butterscotch Sponge Pudding
 -   rhubarb compote
 -   caramel sauce
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  in a bowl cream the butter and sugar until light and fluffy
 2.  sift in half the flour and the baking powder and mix well

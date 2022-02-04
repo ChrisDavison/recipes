@@ -1,8 +1,6 @@
----
-title: Bread Sauce
----
+# Bread Sauce
 
-## Ingredients
+Ingredients
 
 -   1 pint milk
 -   salt & pepper
@@ -13,7 +11,9 @@ title: Bread Sauce
 -   nutmeg
 -   2 oz unsalted butter
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  boil milk in a pan and add salt and pepper
 2.  add onion and bay leaves to milk

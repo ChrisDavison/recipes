@@ -1,8 +1,6 @@
----
-title: Buffalo Chicken Soup
----
+# Buffalo Chicken Soup
 
-## Ingredients
+Ingredients
 
 -   3 medium chicken thighs (deboned and sliced)
 -   1 tsp onion powder
@@ -16,12 +14,15 @@ title: Buffalo Chicken Soup
 -   1/4 tsp xanthan gum
 -   salt and pepper
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  debone the thighs and drop into crockpot
 2.  add all the Ingredients **except** cream, cheese, and xanthan gum.
 3.  set crockpot on low for 6 hours (or high for 3) and let cook completely
 4.  remove the chicken from the crockpot and shred
-5.  add cream, cheese, and xanthan gum to crockpot. blend using an immersion blender to emulsify.
+5.  add cream, cheese, and xanthan gum to crockpot. blend using an immersion
+    blender to emulsify.
 6.  place the chicken back in
 7.  season with salt, pepper, and hot sauce

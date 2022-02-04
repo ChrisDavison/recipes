@@ -1,8 +1,6 @@
----
-title: Gochujang Salmon, in the Instant Pot
----
+# Gochujang Salmon, in the Instant Pot
 
-## Ingredients
+Ingredients
 
 -   2 salmon fillets
 
@@ -16,7 +14,9 @@ title: Gochujang Salmon, in the Instant Pot
     -   1 small clove garlic, minced
     -   1/2 tsp fresh ginger
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   Make glaze
 -   Put 1 cup of water in the instant pot

@@ -1,8 +1,6 @@
----
-title: Pineapple and Chilli Salsa
----
+# Pineapple and Chilli Salsa
 
-## Ingredients
+Ingredients
 
 -   225g fresh pineapple
 -   1 small red pepper
@@ -10,7 +8,9 @@ title: Pineapple and Chilli Salsa
 -   2 tablespoon light soy sauce
 -   1 piece stem ginger in syrup drained and chopped finely
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  peel and finely chop the pineapple and place in a bowl.
 2.  half, de-seed and finely chop the pepper and chilli

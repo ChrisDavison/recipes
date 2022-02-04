@@ -1,6 +1,4 @@
----
-title: Chinese Glaze
----
+# Chinese Glaze
 
 -   150ml clear honey
 -   1 tablespoon five spice

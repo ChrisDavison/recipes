@@ -1,8 +1,6 @@
----
-title: Oatcakes
----
+# Oatcakes
 
-## Ingredients
+Ingredients
 
 -   250g oatmeal
 -   25g butter (melted)
@@ -10,7 +8,9 @@ title: Oatcakes
 -   pinch of salt
 -   150ml hot water
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  preheat oven to 180C
 2.  put oatmeal, bicarb, and salt into bowl

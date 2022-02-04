@@ -1,8 +1,6 @@
----
-title: Couscous Salad
----
+# Couscous Salad
 
-## Ingredients
+Ingredients
 
 -   plain couscous
 -   flat leaf parsley
@@ -10,7 +8,9 @@ title: Couscous Salad
 -   tomatoes
 -   fried bacon chopped(streaky. parma,proscuttio)
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  make couscous to required quantity with butter and leave to cool
 2.  fry bacon well and chop into pieces

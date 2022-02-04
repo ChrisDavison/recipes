@@ -1,8 +1,6 @@
----
-title: Pepper Sauce
----
+# Pepper Sauce
 
-## Ingredients
+Ingredients
 
 -   1 tablespoon olive oil
 -   1 tablespoon butter(not margarine)
@@ -11,7 +9,9 @@ title: Pepper Sauce
 -   crushed mixed peppercorns to taste
 -   salt to taste
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  heat the oil and butter over a medium heat until the butter stops frothing
 2.  whisk in the flour and cook for 30 seconds whisking constantly

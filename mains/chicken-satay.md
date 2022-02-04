@@ -1,10 +1,8 @@
----
-title: Chicken Satay
----
+# Chicken Satay
 
 1.  Option 1
 
-## Ingredients
+Ingredients
 
 ``` example
 -   8-10 mini chicken fillets
@@ -23,7 +21,7 @@ title: Chicken Satay
 -   dash hot chilli sauce
 ```
 
-## Method
+Method
 
 ``` example
 1.  cut the chicken into strips around 2-3 cm wide. place in a bowl and set aside.
@@ -34,7 +32,7 @@ title: Chicken Satay
 
 1.  Option 2
 
-## Ingredients
+Ingredients
 
 ``` example
 -   8-12 mini chicken fillets
@@ -52,7 +50,9 @@ title: Chicken Satay
 -   2 tablespoon vegetable oil
 ```
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 ``` example
 1.  cut chicken into thin strips and place in a bowl

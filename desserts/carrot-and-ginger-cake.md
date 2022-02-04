@@ -1,8 +1,6 @@
----
-title: Carrot and Ginger Cake
----
+# Carrot and Ginger Cake
 
-## Ingredients
+Ingredients
 
 -   Cake
 
@@ -31,10 +29,19 @@ title: Carrot and Ginger Cake
     -   stem ginger
     -   ground ginger
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  preheat oven to 180 degrees. grease and line an 8" round cake tin with baking parchment.
-2.  sift the flour, baking powder, bicarbonate of soda, ground ginger and salt into a bowl. stir in the sugar, carrots, stem ginger and root ginger. beat together the eggs, oil and orange juice, then pour into the bowl. mix the Ingredients together well
-3.  spoon the mixture into the tin and bake for 1-11/2 hrs until firm to touch, or until a skewer comes out clean when pushed into cake.
-4.  to make the frosting, place the soft cheese in a bowl and beat to soften. sift in the icing sugar and add the vanilla extract. mix well
-5.  remove the cake from tin and smooth the frosting over the top. decorate and serve
+Method
+
+1.  preheat oven to 180 degrees. grease and line an 8" round cake tin with
+    baking parchment.
+2.  sift the flour, baking powder, bicarbonate of soda, ground ginger and salt
+    into a bowl. stir in the sugar, carrots, stem ginger and root ginger. beat
+    together the eggs, oil and orange juice, then pour into the bowl. mix the
+    Ingredients together well
+3.  spoon the mixture into the tin and bake for 1-11/2 hrs until firm to touch,
+    or until a skewer comes out clean when pushed into cake.
+4.  to make the frosting, place the soft cheese in a bowl and beat to soften.
+    sift in the icing sugar and add the vanilla extract. mix well
+5.  remove the cake from tin and smooth the frosting over the top. decorate and
+    serve

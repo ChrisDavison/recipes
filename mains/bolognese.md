@@ -1,8 +1,6 @@
----
-title: Bolognese
----
+# Bolognese
 
-## Ingredients
+Ingredients
 
 -   11/2lbs mince
 -   tin tomatoes chopped
@@ -15,7 +13,9 @@ title: Bolognese
 -   2 tablespoon tomato puree
 -   2 tablespoon italian seasoning
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  brown mince and remove from pot
 2.  cook onions and garlic together until golden brown

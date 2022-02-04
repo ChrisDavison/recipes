@@ -1,8 +1,6 @@
----
-title: Guacamole
----
+# Guacamole
 
-## Ingredients
+Ingredients
 
 -   2 ripe avocados
 -   1/2 teaspoon salt
@@ -13,7 +11,9 @@ title: Guacamole
 -   pepper
 -   1/2 ripe tomato (seeds and pulp removed) chopped
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  remove avocado flesh
 2.  mash with a fork (but leave it a little chunky)

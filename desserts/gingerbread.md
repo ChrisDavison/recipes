@@ -1,10 +1,8 @@
----
-title: Gingerbread
----
+# Gingerbread
 
 Makes about 16 servings of 180cal
 
-## Ingredients
+Ingredients
 
 -   255g whole wheat flour, or 8.5 oz all-purpose flour
 -   50g granulated sugar
@@ -20,13 +18,19 @@ Makes about 16 servings of 180cal
 -   227g buttermilk
 -   92g diced crystallized ginger
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   Grease a 9" square pan and preheat oven to 350F
--   In a large bowl, whisk flour, sugar, baking soda, salt, ginger, cinnamon, cloves, and nutmeg
--   Melt butter. Add molasses, and pour into the dry ingredients. Mix to moisten.
+-   In a large bowl, whisk flour, sugar, baking soda, salt, ginger, cinnamon,
+    cloves, and nutmeg
+-   Melt butter. Add molasses, and pour into the dry ingredients. Mix to
+    moisten.
 -   Add water, stirring till everything moist.
--   Whisk together egg and buttermilk, and stir into the buatter until evenly combined.
+-   Whisk together egg and buttermilk, and stir into the buatter until evenly
+    combined.
 -   Stir in crystallized ginger
--   Pour batter into the bpan and bake for 30-35min, unil cake just begins to pull from the edge of the pan
+-   Pour batter into the bpan and bake for 30-35min, unil cake just begins to
+    pull from the edge of the pan
 -   Remove from the oven and cool on a rack for 15min before slicing.

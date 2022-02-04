@@ -1,8 +1,6 @@
----
-title: Thai-style Red Beef Curry
----
+# Thai-style Red Beef Curry
 
-## Ingredients
+Ingredients
 
 -   300ml coconut milk
 -   2tablespoon thai red curry paste
@@ -15,9 +13,13 @@ title: Thai-style Red Beef Curry
 -   175g cherry tomatoes
 -   3 tablespoon chopped fresh coriander
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  place the coconut milk in a large pan with the curry paste, fish sauce lime leaves, ginger and garlic. heat for 5 mins until bubbling and then add the beef. reduce the heat and simmer for 20 mins
+Method
+
+1.  place the coconut milk in a large pan with the curry paste, fish sauce lime
+    leaves, ginger and garlic. heat for 5 mins until bubbling and then add the
+    beef. reduce the heat and simmer for 20 mins
 2.  add the green beans and cook for further 10 mins
 3.  add the cherry tomatoes and coriander and heat through
 

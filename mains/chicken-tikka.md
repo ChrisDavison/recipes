@@ -1,8 +1,6 @@
----
-title: Chicken Tikka
----
+# Chicken Tikka
 
-## Ingredients
+Ingredients
 
 -   1 teaspoon finely chopped fresh ginger
 -   1 teaspoon fresh garlic crushed
@@ -18,11 +16,18 @@ title: Chicken Tikka
 -   1 onion sliced
 -   3 tablespoons oil
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  blend the ginger, garlic, ground coriander, ground cumin and chilli powder in a large mixing bowl
+Method
+
+1.  blend the ginger, garlic, ground coriander, ground cumin and chilli powder
+    in a large mixing bowl
 2.  add the yogurt, salt, lemon juice, red food coluring and tomato puree
-3.  cut the chicken into bite size pieces.add to the spice mixture and toss to coat well.leave to marinade for at least 3 hours preferably overnight
-4.  arrange onion in bottom of a heat proof dish.carefully drizzle half the oil over the onions
-5.  arrange the marinated chicken pieces over the top of the onions and cook under a preheated grill, turning once and basting with the remaining oil, for about 10 minutes, until the chicken is cooked right through and tender
+3.  cut the chicken into bite size pieces.add to the spice mixture and toss to
+    coat well.leave to marinade for at least 3 hours preferably overnight
+4.  arrange onion in bottom of a heat proof dish.carefully drizzle half the oil
+    over the onions
+5.  arrange the marinated chicken pieces over the top of the onions and cook
+    under a preheated grill, turning once and basting with the remaining oil,
+    for about 10 minutes, until the chicken is cooked right through and tender
 6.  serve with accompaniment of your choice

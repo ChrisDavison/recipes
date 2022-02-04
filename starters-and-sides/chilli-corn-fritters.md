@@ -1,8 +1,6 @@
----
-title: Chilli corn fritters
----
+# Chilli corn fritters
 
-## Ingredients
+Ingredients
 
 -   50g polenta
 -   200g canned sweetcorn
@@ -13,7 +11,13 @@ title: Chilli corn fritters
 -   1 tablespoon sun flower oil
 -   3 tablespoons chopped coriander
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  place polenta in mixing bowl and stir in sweetcorn, chilli flakes, coriander, curry paste, fish sauce and egg. mix thoroughly until combined to a sloppy mixture
-2.  heat a litle oil in a frying pan then drop spoonfuls of mixture into the pan. cook over a medium low heat for 3-4 mins per side until cooked through and golden
+Method
+
+1.  place polenta in mixing bowl and stir in sweetcorn, chilli flakes,
+    coriander, curry paste, fish sauce and egg. mix thoroughly until combined to
+    a sloppy mixture
+2.  heat a litle oil in a frying pan then drop spoonfuls of mixture into the
+    pan. cook over a medium low heat for 3-4 mins per side until cooked through
+    and golden

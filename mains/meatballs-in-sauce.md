@@ -1,8 +1,6 @@
----
-title: Meatballs in Sauce
----
+# Meatballs in Sauce
 
-## Ingredients
+Ingredients
 
 -   450g minced lamb
 -   1 teaspoon fresh root ginger crushed
@@ -34,11 +32,18 @@ title: Meatballs in Sauce
 -   fresh coriander leaves finely chopped
 -   1 green chilli finely chopped
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  place the lamb in a large mixing bowl. add the ginger, garlic, garam masala, poppy seeds, salt, chilli powder, onion, chilli, coriander and gram flour and mix well with a fork
+Method
+
+1.  place the lamb in a large mixing bowl. add the ginger, garlic, garam masala,
+    poppy seeds, salt, chilli powder, onion, chilli, coriander and gram flour
+    and mix well with a fork
 2.  make small meatballs of the mixture by hand and set aside
-3.  to make the sauce, heat the oil and fry the onions until golden brown. add the cinnamon sticks and cardamoms to the pan, lower the heat and stir fry for a further 5 mins.add the ginger, garlic, salt, yogurt and water and mix well
+3.  to make the sauce, heat the oil and fry the onions until golden brown. add
+    the cinnamon sticks and cardamoms to the pan, lower the heat and stir fry
+    for a further 5 mins.add the ginger, garlic, salt, yogurt and water and mix
+    well
 4.  transfer to a serving bowl and garnish with chopped coriander and chilli
 5.  heat the oil and fry the meatballs for 8-10 mins or until golden brown
 6.  transfer the meatballs to warm plates and serve with sauce and indian bread

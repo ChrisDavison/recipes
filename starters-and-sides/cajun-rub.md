@@ -1,6 +1,4 @@
----
-title: Cajun Rub
----
+# Cajun Rub
 
 -   1 tablespoon paprika
 -   1/2 tablespoon cayenne or chilli powder

@@ -1,8 +1,6 @@
----
-title: Coconut Milk Soup with Ginger and Coriander
----
+# Coconut Milk Soup with Ginger and Coriander
 
-## Ingredients
+Ingredients
 
 | Measure | Ingredient                                     |
 |---------|------------------------------------------------|
@@ -18,10 +16,16 @@ title: Coconut Milk Soup with Ginger and Coriander
 |         | salt and pepper                                |
 |         | coriander (garnish)                            |
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  heat sesame oil in a saucepan and saute onion and ginger for 2-3 mins until softened
-2.  add coriander, coconut milk, red curry paste and stock. bring to the boil then reduce heat and simmer for 15-20mins
-3.  blend the cornflour with 2-3 tablespoon of the milk. add to the pan with the remaining milk. bring to the boil stirring constantly, then reduce heat and cook gently for 2-3mins.
+Method
+
+1.  heat sesame oil in a saucepan and saute onion and ginger for 2-3 mins until
+    softened
+2.  add coriander, coconut milk, red curry paste and stock. bring to the boil
+    then reduce heat and simmer for 15-20mins
+3.  blend the cornflour with 2-3 tablespoon of the milk. add to the pan with the
+    remaining milk. bring to the boil stirring constantly, then reduce heat and
+    cook gently for 2-3mins.
 4.  season to taste
 5.  garnish with fresh coriander and serve with fresh homemade crusty bread

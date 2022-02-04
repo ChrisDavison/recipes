@@ -1,8 +1,6 @@
----
-title: Spicy Roast Chicken
----
+# Spicy Roast Chicken
 
-## Ingredients
+Ingredients
 
 -   50g ground almonds
 -   50g dessicated coconut
@@ -19,12 +17,19 @@ title: Spicy Roast Chicken
 -   fresh coriander leaves
 -   1 lemon cut into wedges
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  in a heavy base saucepan, dry roast the ground almonds and coconut and set aside
+Method
+
+1.  in a heavy base saucepan, dry roast the ground almonds and coconut and set
+    aside
 2.  heat the oil in a frying pan and fry the onion, stiring until golden brown
-3.  place the ginger, garlic, chilli powder, garam masala and salt in a bowl and mix with the yogurt. add the almonds and coconut and mix well
+3.  place the ginger, garlic, chilli powder, garam masala and salt in a bowl and
+    mix with the yogurt. add the almonds and coconut and mix well
 4.  add the onions to the spice mixture, blend and set aside
-5.  arrange the chicken in the bottom of a heat proof dish. spoon the spice mixture over the chicken sparingly
-6.  cook in a preheated oven, 160c for 35-45 mins.check the chicken is cooked thoroughly by piercing the thickest part using a sharp knife or skewer the juice will run clear when the chicken is cooked through.
+5.  arrange the chicken in the bottom of a heat proof dish. spoon the spice
+    mixture over the chicken sparingly
+6.  cook in a preheated oven, 160c for 35-45 mins.check the chicken is cooked
+    thoroughly by piercing the thickest part using a sharp knife or skewer the
+    juice will run clear when the chicken is cooked through.
 7.  garnish with the coriander and lemon wedges and serve with the salad leaves

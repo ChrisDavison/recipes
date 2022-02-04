@@ -1,8 +1,6 @@
----
-title: Minestrone Soup
----
+# Minestrone Soup
 
-## Ingredients
+Ingredients
 
 -   2 tablespoon olive oil
 -   1-2 cloves garlic
@@ -20,13 +18,17 @@ title: Minestrone Soup
 -   chopped parsley and basil
 -   fresh ground pepper
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  saute garlic and onion
 2.  add potatoes celery carrots and stir for a few minutes
 3.  add stock and some water, bring to the boil then add peeled tomatoes
-4.  cook for 10 minutes then add the zucchini, green beans and cabbage. bring to the boil
-5.  add parsley, basil and beans and let simmer until vegetables are almost ready
+4.  cook for 10 minutes then add the zucchini, green beans and cabbage. bring to
+    the boil
+5.  add parsley, basil and beans and let simmer until vegetables are almost
+    ready
 6.  bring to the boil and add salt and pepper to taste.
 7.  add shell pasta and cook until ready
 8.  let stand for 5 minutes before serving

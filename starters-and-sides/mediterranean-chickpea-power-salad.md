@@ -1,10 +1,8 @@
----
-title: Chopped Mediterranean Chickpea Power Salad
----
+# Chopped Mediterranean Chickpea Power Salad
 
 Serves 4; about 430 cal
 
-## Ingredients
+Ingredients
 
 -   2/3 cup uncooked bulgur (quinoa?)
 -   19oz can of chickpeas (drained and rinsed)
@@ -22,9 +20,13 @@ Serves 4; about 430 cal
 -   1 tsp fresh lemon juice
 -   1/2 tsp lemon zest
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   Cook bulgur and allow to cool
 -   Shake together all vinaigrette ingredients
--   Toss together all salad ingredients in the vinaigrette and divide amongst 4 2-cup tupperware (or put in jars, with vinaigrette, followed by chickpeas, bulgur, celery, pepper, cheese, radish, and onion).
+-   Toss together all salad ingredients in the vinaigrette and divide amongst 4
+    2-cup tupperware (or put in jars, with vinaigrette, followed by chickpeas,
+    bulgur, celery, pepper, cheese, radish, and onion).
 -   Serve by shaking out and then stir to distribute vinaigrette

@@ -1,14 +1,14 @@
----
-title: Bechemel Sauce
----
+# Bechemel Sauce
 
-## Ingredients
+Ingredients
 
 -   2 tablespoon margarine
 -   2 heaped tablespoon flour
 -   1 pint milk
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   melt margarine and add flour
 -   cook margarine and flour for 5 minutes

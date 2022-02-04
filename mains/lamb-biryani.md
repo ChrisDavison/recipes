@@ -1,8 +1,6 @@
----
-title: Lamb Biryani
----
+# Lamb Biryani
 
-## Ingredients
+Ingredients
 
 -   150ml milk
 -   1 teaspoon saffron
@@ -23,10 +21,23 @@ title: Lamb Biryani
 -   2 fresh green chilli
 -   1/4 bunch fresh coriander
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  boil the milk in a pan with the saffron and set aside. heat the ghee in a pan, add the onion and fry until golden. remove 1/2the onion and ghee from the pan and set aside.
-2.  combine the meat, yogurt, ginger, garlic, garam masala, 1 teaspoon salt and turmeric in a large bowl
-3.  return the pan with ghee and onions to the heat, add the meat mixture, stir for 3 mins and add the water. cook on low heat for 45 mins stirring occasionally. if the meat is not tender, add 150ml of water and cook for 15mins. once the water has evaporated stir fry for 2 mins and set aside
-4.  meanwhile place the rice in a pan. add the cumin seed, cardamoms, salt and enough water for cooking and cook over a medium heat until the rice is half cooked. drain. remove half of the rice
-5.  spoon the meat mixture on top of the rice in the pan. add half each of the saffron milk, lemon juice, chillis and coriander. add the reserved onion and ghee mixture, the other half of the rice and other Ingredients. Cover and cook over a low heat for 15-20 mins.
+Method
+
+1.  boil the milk in a pan with the saffron and set aside. heat the ghee in a
+    pan, add the onion and fry until golden. remove 1/2the onion and ghee from
+    the pan and set aside.
+2.  combine the meat, yogurt, ginger, garlic, garam masala, 1 teaspoon salt and
+    turmeric in a large bowl
+3.  return the pan with ghee and onions to the heat, add the meat mixture, stir
+    for 3 mins and add the water. cook on low heat for 45 mins stirring
+    occasionally. if the meat is not tender, add 150ml of water and cook for
+    15mins. once the water has evaporated stir fry for 2 mins and set aside
+4.  meanwhile place the rice in a pan. add the cumin seed, cardamoms, salt and
+    enough water for cooking and cook over a medium heat until the rice is half
+    cooked. drain. remove half of the rice
+5.  spoon the meat mixture on top of the rice in the pan. add half each of the
+    saffron milk, lemon juice, chillis and coriander. add the reserved onion and
+    ghee mixture, the other half of the rice and other Ingredients. Cover and
+    cook over a low heat for 15-20 mins.

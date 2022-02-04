@@ -1,12 +1,10 @@
----
-title: No Bake Peanut Butter Protein Balls
----
+# No Bake Peanut Butter Protein Balls
 
 Makes 10 balls.
 
 Nutrition: \~150kcal; 16g carbs; 5g protein; 8g fat.
 
-## Ingredients
+Ingredients
 
 -   1 cup oats
 -   1/2 cup peanut butter
@@ -15,7 +13,9 @@ Nutrition: \~150kcal; 16g carbs; 5g protein; 8g fat.
 -   1/2 tsp ground cinnamon
 -   1/4 cup mini choc chips
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  Blend oats in food processor until a fine powder
 2.  Add peanut butter, honey, vanilla, and cinnamon. Pulse until combined.

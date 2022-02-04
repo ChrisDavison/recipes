@@ -1,15 +1,15 @@
----
-title: Dashi Stock
----
+# Dashi Stock
 
-## Ingredients
+Ingredients
 
 -   6 cups water
 -   10g dried kelp (or japanese kombu)
 -   30g dried anchovy
     -   substitute with shiitake? \~9 mushrooms
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  Gently wipe konbu with damp paper towel to remove dust/debris
 2.  (if using anchovy) remove heads and black innards. put in a strainer ball

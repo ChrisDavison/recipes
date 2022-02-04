@@ -1,8 +1,6 @@
----
-title: Simple Beef Burgers
----
+# Simple Beef Burgers
 
-## Ingredients
+Ingredients
 
 -   1 kg beef mince
 -   1 tsp cracked pepper
@@ -18,7 +16,9 @@ To serve
 -   cheese
 -   onions sliced
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  combine beef, pepper, salt, mustard, and worcestershire sauce, gently
 2.  form into 8 patties

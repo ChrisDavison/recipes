@@ -1,8 +1,6 @@
----
-title: Chicken Jalfrezi
----
+# Chicken Jalfrezi
 
-## Ingredients
+Ingredients
 
 -   1 teaspoon mustard oil
 -   3 tablespoons vegetable oil
@@ -22,11 +20,20 @@ title: Chicken Jalfrezi
 -   salt
 -   sprigs of fresh coriander to garnish
 
-## Method
+--------------------------------------------------------------------------------
 
-1.  heat the mustard oil in a large frying pan set over a high heat for about 1 min until it begins to smoke
-2.  add the vegetable oil reduce the heat and add the onion and garlic. fry the onion and garlic until golden and soft
-3.  add the tomato puree, chopped tomatoes, turmeric, ground cumin and coriander seed, chilli powder, garam masala and wine vinegar to the frying pan. stir the mixture until fragrant
-4.  add the red pepper and broad beans and stir for 2 mins until the pepper is softened. stir in the chicken and salt to taste
-5.  simmer gently for 6-8 mins until the chicken is heated through and the beans are tender
-6.  serve immediately garnished with sprigs of coriander accompanied by basmati rice
+Method
+
+1.  heat the mustard oil in a large frying pan set over a high heat for about 1
+    min until it begins to smoke
+2.  add the vegetable oil reduce the heat and add the onion and garlic. fry the
+    onion and garlic until golden and soft
+3.  add the tomato puree, chopped tomatoes, turmeric, ground cumin and coriander
+    seed, chilli powder, garam masala and wine vinegar to the frying pan. stir
+    the mixture until fragrant
+4.  add the red pepper and broad beans and stir for 2 mins until the pepper is
+    softened. stir in the chicken and salt to taste
+5.  simmer gently for 6-8 mins until the chicken is heated through and the beans
+    are tender
+6.  serve immediately garnished with sprigs of coriander accompanied by basmati
+    rice

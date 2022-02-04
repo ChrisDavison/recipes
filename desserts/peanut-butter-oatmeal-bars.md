@@ -1,10 +1,8 @@
----
-title: Peanut-Butter Oatmeal Bars
----
+# Peanut-Butter Oatmeal Bars
 
 Makes 12-16 squares.
 
-## Ingredients
+Ingredients
 
 -   (1/2 cup brown sugar)
 -   1 cup chunky peanut butter
@@ -15,14 +13,17 @@ Makes 12-16 squares.
 -   1/4 tsp salt
 -   1/2 cup milk
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 1.  Preheat oven to 180C
 2.  (Optional) mix peanut butter and sugar with beater until fluffy
 3.  Mix in vanilla to peanut butter(mixture)
 4.  Add in the dry ingredients slowly, and mix
 5.  Add milk in a steady stream until it forms a dough
-6.  Press lightly into a baking dish. Bake for 17-20 min until lightly golden and set.
+6.  Press lightly into a baking dish. Bake for 17-20 min until lightly golden
+    and set.
 7.  Allow to cool completely and cut into squares.
 
 Can store in fridge for up to 2 weeks.

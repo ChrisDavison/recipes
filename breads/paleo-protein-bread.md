@@ -1,10 +1,8 @@
----
-title: Paleo Protein Bread
----
+# Paleo Protein Bread
 
 Makes 1 1kg loaf (2lb); 20 slices of 50g (\~200cal)
 
-## Ingredients
+Ingredients
 
 -   100g pumpkin seeds
 -   100g sunflower seeds
@@ -16,7 +14,9 @@ Makes 1 1kg loaf (2lb); 20 slices of 50g (\~200cal)
 -   5 eggs
 -   1 decilitre oil
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 Need approx 1-2 eggs per 100g of nuts/grains/seeds.
 

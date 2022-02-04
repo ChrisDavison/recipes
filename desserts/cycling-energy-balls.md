@@ -1,19 +1,19 @@
----
-title: Cycling Energy Balls
----
+# Cycling Energy Balls
 
 From *The Plant-Based Cyclist*
 
 Makes 10.
 
-## Ingredients
+Ingredients
 
 -   100g oats
 -   250g dates, stoned
 -   60g chia seeds
 -   50g agave nectar (golden syrup?)
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   add the dry stuff and blend
 -   add the nectar and blend again

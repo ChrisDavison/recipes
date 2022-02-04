@@ -1,10 +1,10 @@
----
-title: Chickpea Salad
----
+# Chickpea Salad
 
-Bit too much chilli in it, and the salad was generally a bit bland. Sauce was enjoyable, but the flavours of chickpea, feta, spinach, and dressing just felt a bit disparate.
+Bit too much chilli in it, and the salad was generally a bit bland. Sauce was
+enjoyable, but the flavours of chickpea, feta, spinach, and dressing just felt a
+bit disparate.
 
-## Ingredients
+Ingredients
 
 -   1 can chickpeas (drained and rinsed)
 -   handful of spinach
@@ -16,7 +16,9 @@ Bit too much chilli in it, and the salad was generally a bit bland. Sauce was en
 -   1 pinch salt
 -   1/2 tsp chilli flakes (or dried cayenne)
 
-## Method
+--------------------------------------------------------------------------------
+
+Method
 
 -   Chop cheese and add to spinach and chickpeas
 -   Mix the honey, oil, and lemon juice
