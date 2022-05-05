@@ -9,6 +9,10 @@ Ingredients
 - 350ml cool water
 - olive oil, for kneading
 
+If using a seed soaker, do the soaker \~12 hours before. For however much soaker, do equal parts seeds/grains and water.
+
+***2022-05-05*** DO NOT put in ~equal amounts of seeds. I made with 170g pumpkin, 330g sunflower seed soaker, and it had a bit of a 'weird' taste.
+
 --------------------------------------------------------------------------------
 
 Method
