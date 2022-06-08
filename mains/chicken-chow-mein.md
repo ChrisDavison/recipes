@@ -38,7 +38,7 @@ Method
     minutes. Then, set chicken aside on plate
 4.  Wipe wok clean, reheat, and add 1 1/2 tbsp nut oil
 5.  Add 2 finely chopped garlic cloves and stir-fry for 10 seconds
-6.  Add mangetout. Stir fry for \~1 min.
+6.  Add mangetout & prosciutto. Stir fry for \~1 min.
 7.  Add noodles and sauce ingredients. Stir fry for \~2 min.
 8.  Re-add the chicken and any juices. Stir-fry for 3-4 mins or until chicken is
     cooked

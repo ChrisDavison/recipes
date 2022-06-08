@@ -2,8 +2,8 @@
 
 Ingredients
 
--   2oz butter
--   6oz peanut butter
+-   2oz butter (56g)
+-   6oz peanut butter (170g)
 -   1 cup icing sugar
 -   2 cups crushed cornflakes
 -   chocolate to coat
