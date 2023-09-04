@@ -1,3 +1,26 @@
+# Recipe Ideas 
+
+- korean tonkatsu
+- korean jeon
+- jabchae
+- bibimbab
+- galbi
+- traditional daal
+- green curry daal
+- pho
+- thai curry
+- pad thai
+- mushroom penne
+- cassoulet
+- satay
+- huevos divorciados
+- garlic noodles
+- ragu neopolitana
+- ragu bolognese
+- chow mein
+- crispy shredded beef
+- homemade pizza
+
 ## Vegetarian recipe ideas
 
 -   pasta & pesto
