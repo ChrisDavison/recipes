@@ -7,8 +7,7 @@ Ingredients
 -   1 tbsp minced fresh ginger
 -   1 medium shallot
 -   4 cloves garlic
--   4 tbsp green curry paste - If using my large amazon tub, try 2 scoops.
-    It\\'s a very strong paste, with little oil/fluid.
+-   4 tbsp green curry paste - If using my large amazon tub, try 2 scoops. It\\'s a very strong paste, with little oil/fluid.
 -   2 1/4 cups light coconut milk
 -   1 tsp turmeric
 -   1 tsp curry powder
@@ -24,21 +23,17 @@ For serving
 -   Cooked rice
 -   Coriander
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Method
 
-1.  Heat a large pot over a medium heat. Add coconut oil, chilli, ginger,
-    shallot, and garlic. Saute for 3-4 minutes, stirring occasionally
+1.  Heat a large pot over a medium heat. Add coconut oil, chilli, ginger, shallot, and garlic. Saute for 3-4 minutes, stirring occasionally
 2.  Add curry paste and stir to coat. Saute another 2-3 min
 3.  Add coconut milk, turmeric, curry powder, salt, and pepper. Stir to combine
 4.  Bring to a simmer. Add lentils, soy, and syrup.
-5.  Once lentils are tender, taste and adjust flavour as needed (lemon juice for
-    acidity, cayenne for heat, curry powder/paste for curry flavour, salt,
-    syrup...)
+5.  Once lentils are tender, taste and adjust flavour as needed (lemon juice for acidity, cayenne for heat, curry powder/paste for curry flavour, salt, syrup...)
 
-**Instant pot suggestion is maybe `8 min`, which takes about `20 min` to
-pressurise.**
+**Instant pot suggestion is maybe `8 min`, which takes about `20 min` to pressurise.**
 
 Serve over rice of choice, or as-is.
 
