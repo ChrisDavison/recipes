@@ -16,7 +16,7 @@
 4.  knead (when it starts to tear a little, it's had enough) ... will probably
     be quite tacky
 5.  `1h30 to 2h` -- rest
-6.  shape -- lay horizonal. 'book fold' the sides in and pat to seal; then roll
+6.  shape -- lay horizontal. 'book fold' the sides in and pat to seal; then roll
     from the top, pushing in to seal after each roll/fold
 7.  `optional` -- coat the top with seeds or something -- put a damp kitchen
     towel in one pan, and put the topping in another pan. roll the top of the
