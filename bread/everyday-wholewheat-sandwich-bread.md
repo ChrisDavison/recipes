@@ -1,12 +1,16 @@
 # Everyday Wholewheat Sandwich Bread
 
-- 340g wholewheat flour
-- 225g plain flour
-- 12g salt
-- 9g instant yeast
-- 430g warm milk (~110F 44C)
-- 60g honey
-- 40g butter (warm)
+***I made this with 1.5x as much, as the flour amount seemed low, but it
+ballooned like hell due to the amount of yeast.*** Updated the recipe back to
+the *actual* given measurements.
+
+- 225g wholewheat flour
+- 150g plain flour
+- 8g salt
+- 6g instant yeast
+- 285g warm milk (~110F 44C)
+- 42g honey
+- 28g butter (warm)
 
 ***Method***
 
