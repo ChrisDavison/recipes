@@ -29,4 +29,5 @@ the *actual* given measurements.
 9.  `1h30 to 2h` -- rest in a warm place. should bounce back *just a little* if
     you press with your finger. pre-heat oven near the end of the prooving time
     (~350F 180C)
-10. bake for ***35-40 minutes***
+10. bake for `35-40 minutes`, until internal temperature is `~88-90C`
+11. take out of pan and leave to rest `20+ minutes`
